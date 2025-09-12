@@ -1,0 +1,35 @@
+[00:24:19] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:24:19] [INIT] Loaded plugins:
+[00:24:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:24:19] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[00:24:20] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[00:24:20] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.003 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.022 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.005 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.001 s
+[00:24:20] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[00:24:20] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[00:24:20] [INFO] Loaded 25/25 KubeJS server scripts in 0.071 s with 0 errors and 0 warnings
+[00:24:20] [INFO] Scripts loaded
+[00:24:22] [INFO] [minecraft:item] Found 641 tags, added 4 objects, removed 0 objects
+[00:24:22] [INFO] [minecraft:block] Found 433 tags, added 14 objects, removed 0 objects
+[00:24:27] [INFO] Server resource reload complete!
