@@ -1,0 +1,216 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "cfm:white_kitchen_counter"
+				},
+				{
+					"Name": "cfm:light_gray_kitchen_counter"
+				},
+				{
+					"Name": "cfm:gray_kitchen_counter"
+				},
+				{
+					"Name": "cfm:black_kitchen_counter"
+				},
+				{
+					"Name": "cfm:brown_kitchen_counter"
+				},
+				{
+					"Name": "cfm:red_kitchen_counter"
+				},
+				{
+					"Name": "cfm:orange_kitchen_counter"
+				},
+				{
+					"Name": "cfm:yellow_kitchen_counter"
+				},
+				{
+					"Name": "cfm:lime_kitchen_counter"
+				},
+				{
+					"Name": "cfm:green_kitchen_counter"
+				},
+				{
+					"Name": "cfm:light_blue_kitchen_counter"
+				},
+				{
+					"Name": "cfm:blue_kitchen_counter"
+				},
+				{
+					"Name": "cfm:cyan_kitchen_counter"
+				},
+				{
+					"Name": "cfm:purple_kitchen_counter"
+				},
+				{
+					"Name": "cfm:magenta_kitchen_counter"
+				},
+				{
+					"Name": "cfm:pink_kitchen_counter"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "cfm:white_picket_fence"
+				},
+				{
+					"Name": "cfm:light_gray_picket_fence"
+				},
+				{
+					"Name": "cfm:gray_picket_fence"
+				},
+				{
+					"Name": "cfm:black_picket_fence"
+				},
+				{
+					"Name": "cfm:brown_picket_fence"
+				},
+				{
+					"Name": "cfm:red_picket_fence"
+				},
+				{
+					"Name": "cfm:orange_picket_fence"
+				},
+				{
+					"Name": "cfm:yellow_picket_fence"
+				},
+				{
+					"Name": "cfm:lime_picket_fence"
+				},
+				{
+					"Name": "cfm:green_picket_fence"
+				},
+				{
+					"Name": "cfm:light_blue_picket_fence"
+				},
+				{
+					"Name": "cfm:blue_picket_fence"
+				},
+				{
+					"Name": "cfm:cyan_picket_fence"
+				},
+				{
+					"Name": "cfm:purple_picket_fence"
+				},
+				{
+					"Name": "cfm:magenta_picket_fence"
+				},
+				{
+					"Name": "cfm:pink_picket_fence"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "cfm:white_picket_gate"
+				},
+				{
+					"Name": "cfm:light_gray_picket_gate"
+				},
+				{
+					"Name": "cfm:gray_picket_gate"
+				},
+				{
+					"Name": "cfm:black_picket_gate"
+				},
+				{
+					"Name": "cfm:brown_picket_gate"
+				},
+				{
+					"Name": "cfm:red_picket_gate"
+				},
+				{
+					"Name": "cfm:orange_picket_gate"
+				},
+				{
+					"Name": "cfm:yellow_picket_gate"
+				},
+				{
+					"Name": "cfm:lime_picket_gate"
+				},
+				{
+					"Name": "cfm:green_picket_gate"
+				},
+				{
+					"Name": "cfm:light_blue_picket_gate"
+				},
+				{
+					"Name": "cfm:blue_picket_gate"
+				},
+				{
+					"Name": "cfm:cyan_picket_gate"
+				},
+				{
+					"Name": "cfm:purple_picket_gate"
+				},
+				{
+					"Name": "cfm:magenta_picket_gate"
+				},
+				{
+					"Name": "cfm:pink_picket_gate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "cfm:white_sofa"
+				},
+				{
+					"Name": "cfm:light_gray_sofa"
+				},
+				{
+					"Name": "cfm:gray_sofa"
+				},
+				{
+					"Name": "cfm:black_sofa"
+				},
+				{
+					"Name": "cfm:brown_sofa"
+				},
+				{
+					"Name": "cfm:red_sofa"
+				},
+				{
+					"Name": "cfm:orange_sofa"
+				},
+				{
+					"Name": "cfm:yellow_sofa"
+				},
+				{
+					"Name": "cfm:lime_sofa"
+				},
+				{
+					"Name": "cfm:green_sofa"
+				},
+				{
+					"Name": "cfm:light_blue_sofa"
+				},
+				{
+					"Name": "cfm:blue_sofa"
+				},
+				{
+					"Name": "cfm:cyan_sofa"
+				},
+				{
+					"Name": "cfm:purple_sofa"
+				},
+				{
+					"Name": "cfm:magenta_sofa"
+				},
+				{
+					"Name": "cfm:pink_sofa"
+				}
+			]
+		}
+	]
+}

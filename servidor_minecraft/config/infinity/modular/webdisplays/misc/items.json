@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_backlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_badextcard"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_batcell"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_batpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_extcard"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_laserdiode"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_peripheral"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_stonekey"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:craftcomp_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:keyboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:laserpointer"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:linker"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:minepad"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:ownerthief"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:rctrl"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:redctrl"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:screen"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:screencfg"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:server"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:upgrade_gps"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:upgrade_lasermouse"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:upgrade_redinput"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:upgrade_redoutput"
+		}
+	]
+}

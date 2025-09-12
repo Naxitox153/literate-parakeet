@@ -1,0 +1,235 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:ballerinacapuchina",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:ballerinolololo",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:bobritobandito",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:bombardinococodrilo",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:bombombinigusini",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:bonecaambalabu",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:bribribricusdicusdebicusdedicus",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:brrbrrpatapin",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:burbaloniluliloli",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:capuccinoassassino",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:chimpanzinibananini",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:frigocamelo",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:frulifrula",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:garammararam",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:glorbofruttodillo",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:herios",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:herioscuinotanquini",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:lirililarila",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:mateooo",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:nuclearodinossauro",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:orcaleroorcala",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:pothotspot",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:skibiditoilet",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:svininobombondino",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:tanquini",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:tatatatasahur",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:tralalerotralala",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:trictracbarabum",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:tripitropitropatripa",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:trulimerotrulichina",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:tungtungtungsahur",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:udindindindunmadindindindun",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "brainrot:vacasaturnosaturnita",
+				"Category": "monster"
+			}
+		}
+	]
+}

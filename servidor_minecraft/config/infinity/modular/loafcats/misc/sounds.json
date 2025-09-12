@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "loafcats:loafcat_angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:loafcat_doublemeow"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:loafcat_happy_eating"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:loafcat_meow"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:loafcat_purring"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:loafcat_purring_two"
+		}
+	]
+}

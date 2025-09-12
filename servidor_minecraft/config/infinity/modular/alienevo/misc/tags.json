@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alienevo:break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:climb"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:unminable"
+		}
+	]
+}

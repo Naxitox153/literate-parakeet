@@ -1,0 +1,109 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:baby_foliaath",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:bluff",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:ferrous_wroughtnaut",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:foliaath",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:frostmaw",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:grottol",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:lantern",
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:naga",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthana",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthana_crane",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthana_crane_player",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthana_follower_player",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthana_follower_raptor",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthana_raptor",
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "mowziesmobs:umvuthi",
+				"Category": "monster"
+			}
+		}
+	]
+}

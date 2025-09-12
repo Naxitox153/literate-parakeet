@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cfm:fence_gates/picket"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:fence_gates/upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:fences/hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:fences/picket"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:fences/upgraded"
+		}
+	]
+}

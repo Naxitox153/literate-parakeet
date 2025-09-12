@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "webdisplays:ironic"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:keyboard_type"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:screencfg_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:server"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:upgrade_add"
+		},
+		{
+			"weight": 1.0,
+			"key": "webdisplays:upgrade_del"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "afomni:blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:gust_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:sonic_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:sonic_scream_ff"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:swamp_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:swamp_fireball_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:swamp_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:swamp_flame_flare"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:swamp_flame_fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:swamp_flame_hover"
+		}
+	]
+}

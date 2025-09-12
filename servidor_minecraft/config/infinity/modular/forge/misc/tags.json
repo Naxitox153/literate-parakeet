@@ -1,0 +1,456 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "forge:barrels"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:barrels/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:bookshelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests/ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests/trapped"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/infested"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/mossy"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:end_stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:enderman_place_on_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fence_gates/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fences/nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fences/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/silica"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/tinted"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ladders"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_rates/dense"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_rates/singular"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_rates/sparse"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/netherite_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/vibranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sand/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sand/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stained_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_vibranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/vibranium"
+		}
+	]
+}

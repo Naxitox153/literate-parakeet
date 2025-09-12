@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:sonic_clap"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:taken"
+		}
+	]
+}

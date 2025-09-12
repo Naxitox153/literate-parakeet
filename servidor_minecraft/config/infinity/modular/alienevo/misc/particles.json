@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alienevo:drago_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:drago_flares"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:gas"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:pyronite_absorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:pyronite_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:pyronite_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:pyronite_flares"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:pyronite_surf"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:pyronite_tornado"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:slime_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:slime_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:slime_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:sonic_boom"
+		}
+	]
+}

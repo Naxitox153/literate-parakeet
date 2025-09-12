@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_knocker:breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:door_knocking_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:door_knocking_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:door_knocking_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:door_knocking_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:jumpscare"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:knife_sharpening_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:riser"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:sharpening_knife_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:spawn_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:spawn_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:window_knock_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:window_knock_2"
+		}
+	]
+}

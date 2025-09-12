@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 0,
+				"Name": "mypowers:debate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 0,
+				"Name": "mypowers:nullvoid"
+			}
+		}
+	]
+}

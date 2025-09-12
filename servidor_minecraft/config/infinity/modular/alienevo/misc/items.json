@@ -1,0 +1,588 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alienevo:ancient_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:code_tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:code_tablet_selfdestruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_lightblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_lightgray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:color_module_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:diamond_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:diamond_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:galvan_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:galvan_pod"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:galvan_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:machined_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:machined_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:omnitrix_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:permanent_smooth_taydenite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:permanent_taydenite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:plumber_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_core_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_10k_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase1_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_phase2_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_omnitrix_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:quills"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:slime_pro"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_crystal_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:upgrade_shards_yellow"
+		}
+	]
+}

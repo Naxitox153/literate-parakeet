@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "mutantmonsters:mutant_skeleton_skull",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "mutantmonsters:mutant_skeleton_wall_skull",
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

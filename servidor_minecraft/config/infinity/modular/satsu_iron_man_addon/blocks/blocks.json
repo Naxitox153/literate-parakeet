@@ -1,0 +1,34 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "satsu_iron_man_addon:armored_construct",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "satsu_iron_man_addon:reactor_ark_recharge_off",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "satsu_iron_man_addon:reactor_ark_recharge_on",
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

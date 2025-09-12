@@ -1,0 +1,668 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ark_reactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:armored_construct"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:dampened_ark"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:extremis/blood_injection"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:extremis/cure_injection"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:extremis/empty_injection"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:extremis/extremis_injection"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_glases"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_11"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_12"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_13"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:ia_tarjet_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:iron_gold_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:iron_man_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:mark_1_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:mark_2_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:mark_3_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_1/mark_1_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_1/mark_1_feet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_1/mark_1_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_1/mark_1_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_10/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_11/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_12/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_13/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_14/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_15/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_16/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_17/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_18/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_1873_nano/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_19/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_2/mark_2_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_2/mark_2_feet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_2/mark_2_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_2/mark_2_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_20/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_21/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_22/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_23/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_24/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_25/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_26/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_27/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_28/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_29/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_3/mark_3_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_3/mark_3_feet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_3/mark_3_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_3/mark_3_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_30/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_31/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_32/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_33/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_34/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_35/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_36/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_37/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_38/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_39/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_40/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_41/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_42-b/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_42/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_43/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_45/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_47/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_5/briefcase"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_50/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_6/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_7/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_8/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_80/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_85/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_9/bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_blooded/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_extremis/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/mark_taken/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/model_30_iron_destroyer/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/model_50/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:marks/model_prime/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:nanoparticle"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:nanoparticle_additaments"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:nanoparticle_main_color_change"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:nanoparticle_secondary_color_change"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:nanoparticle_thirdy_color_change"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:off_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:reactor_ark_recharge_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:reactor_ark_recharge_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipe_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_1/chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_1/feet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_1/head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_1/legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_10/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_11/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_12/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_13/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_14/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_15/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_16/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_17/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_18/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_1873_nano/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_19/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_2/chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_2/feet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_2/head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_2/legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_20/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_21/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_22/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_23/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_24/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_25/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_26/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_27/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_28/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_29/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_3/chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_3/feet"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_3/head"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_3/legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_30/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_31/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_32/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_33/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_34/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_35/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_36/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_37/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_38/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_39/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_40/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_41/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_42-b/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_42/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_43/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_45/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_47/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_5/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_50/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_6/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_7/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_8/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_80/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_85/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_9/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_blooded/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_extremis/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/mark_taken/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/model_30_iron_destroyer/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/model_50/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:recipes/model_prime/main"
+		},
+		{
+			"weight": 1.0,
+			"key": "satsu_iron_man_addon:symbiote_metalized"
+		}
+	]
+}

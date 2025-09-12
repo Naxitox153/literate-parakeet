@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 0,
+				"Name": "grave.core:burning",
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 0,
+				"Name": "grave.core:freeze",
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 0,
+				"Name": "grave.core:shock",
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 16777045,
+				"Name": "grave.core:sonic_deafening",
+				"Category": "harmful"
+			}
+		}
+	]
+}

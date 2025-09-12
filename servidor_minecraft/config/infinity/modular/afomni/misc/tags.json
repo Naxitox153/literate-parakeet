@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "afomni:blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:bone_mealable"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:indestructable"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:necrofriggian/blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:no_hitbox"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:no_hitbox_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:phase"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:tree_grows_on"
+		}
+	]
+}

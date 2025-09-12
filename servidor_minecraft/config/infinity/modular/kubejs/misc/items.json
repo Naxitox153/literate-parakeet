@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "kubejs:nullvoid_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:nullvoid_soil_path"
+		}
+	]
+}

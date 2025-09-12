@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cfm:block.bedside_cabinet.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.bedside_cabinet.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.blinds.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.blinds.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.cabinet.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.cabinet.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.diving_board.bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.fridge.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.fridge.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.grill.flip"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.grill.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:block.trampoline.bounce"
+		}
+	]
+}

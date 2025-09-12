@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "grave.core:air"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:block_pass"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:block_pass_no_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:carpets"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:ice_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:intange_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:sonic_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:stone_index"
+		}
+	]
+}

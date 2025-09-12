@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "palladium:deepslate_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:deepslate_redstone_flux_crystal_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:heart_shaped_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:large_redstone_flux_crystal_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:lead_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:lead_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:lead_flux_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:lead_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:medium_redstone_flux_crystal_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:quartz_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:quartz_flux_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:raw_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:raw_lead_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:raw_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:raw_titanium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:raw_vibranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:raw_vibranium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:redstone_flux_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:redstone_flux_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:redstone_flux_crystal_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:small_redstone_flux_crystal_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:suit_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:titanium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:vibranium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:vibranium_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:vibranium_flux_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:vibranium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:vibranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "palladium:vibranium_weave_boots"
+		}
+	]
+}

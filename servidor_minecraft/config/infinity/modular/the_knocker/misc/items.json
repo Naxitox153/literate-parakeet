@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_knocker:bridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:knocker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_knocker:knockerswim_spawn_egg"
+		}
+	]
+}

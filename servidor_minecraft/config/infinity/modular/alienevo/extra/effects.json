@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 5592575,
+				"Name": "alienevo:freeze_effect",
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 5635925,
+				"Name": "alienevo:night_vision_effect",
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 0,
+				"Name": "alienevo:scared",
+				"Category": "harmful"
+			}
+		}
+	]
+}

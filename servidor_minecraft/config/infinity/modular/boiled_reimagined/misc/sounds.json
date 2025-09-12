@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.despawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.jumpscare"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.paralyse"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.scare"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.wake"
+		},
+		{
+			"weight": 1.0,
+			"key": "boiled_reimagined:entity.tbo.watch"
+		}
+	]
+}

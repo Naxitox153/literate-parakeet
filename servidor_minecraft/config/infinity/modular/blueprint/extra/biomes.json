@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 0,
+				"Name": "blueprint:original_source_marker"
+			}
+		}
+	]
+}

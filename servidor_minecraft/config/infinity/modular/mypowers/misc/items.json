@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mypowers:chiseled_nullvoid_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:cobbled_nullvoid_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:cracked_nullvoid_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:cracked_nullvoid_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:dna_x"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:dna_x_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:dna_x_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:map_of_infinity"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:map_of_infinity_fragment1"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:map_of_infinity_fragment2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:map_of_infinity_fragment3"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:map_of_infinity_fragment4"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:moi"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:mossy_nullvoid_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_soil_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:nullvoid_stonebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:polished_nullvoid_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mypowers:space"
+		}
+	]
+}

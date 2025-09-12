@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "afomni:blue_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "afomni:packed_ice"
+		}
+	]
+}

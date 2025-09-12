@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "boiled_reimagined:the_boiled_one",
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Name": "boiled_reimagined:the_boiled_one_watching",
+				"Category": "creature"
+			}
+		}
+	]
+}

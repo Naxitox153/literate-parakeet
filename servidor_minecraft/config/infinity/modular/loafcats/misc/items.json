@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "loafcats:cat_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:cat_food_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:cat_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:catnip"
+		},
+		{
+			"weight": 1.0,
+			"key": "loafcats:loaf_cat_spawn_egg"
+		}
+	]
+}

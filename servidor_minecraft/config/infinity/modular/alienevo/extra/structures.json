@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "alienevo:machine_stronghold"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "alienevo:machine_well"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "alienevo:crash_site"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "alienevo:pod"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "alienevo:machine_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "alienevo:machine_blast_chamber"
+			}
+		}
+	]
+}

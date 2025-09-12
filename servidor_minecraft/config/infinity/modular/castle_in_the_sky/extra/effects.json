@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 10902996,
+				"Name": "castle_in_the_sky:sacred_castle_effect",
+				"Category": "harmful"
+			}
+		}
+	]
+}

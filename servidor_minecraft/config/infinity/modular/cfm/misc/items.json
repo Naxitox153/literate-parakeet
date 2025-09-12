@@ -1,0 +1,1812 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:acacia_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:azalea_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:birch_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:black_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:blue_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:brown_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:crimson_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:cyan_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:dark_oak_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:diving_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:door_mat"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:flowering_azalea_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:fridge_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:fridge_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:gray_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:green_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:jungle_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_blue_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:light_gray_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:lime_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:magenta_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:mangrove_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:oak_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:orange_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:pink_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:post_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:purple_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:rainbow_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:red_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:rock_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spatula"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:spruce_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_acacia_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_birch_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_crimson_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_dark_oak_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_jungle_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_mangrove_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_oak_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_spruce_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:stripped_warped_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:trampoline"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_bedside_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_blinds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_desk_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_kitchen_sink_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_kitchen_sink_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_park_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_upgraded_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:warped_upgraded_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:white_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_cooler"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_grill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_picket_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cfm:yellow_sofa"
+		}
+	]
+}

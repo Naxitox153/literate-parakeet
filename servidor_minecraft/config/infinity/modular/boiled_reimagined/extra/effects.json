@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": -10092544,
+				"Name": "boiled_reimagined:paralysis",
+				"Category": "harmful"
+			}
+		}
+	]
+}

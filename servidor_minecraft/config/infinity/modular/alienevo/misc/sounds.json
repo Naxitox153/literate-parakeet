@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_1_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_cycle_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_cycle_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_cycle_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_cycle_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_decouple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_detransform"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_master_control"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_master_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_remove_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_timeout"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:prototype_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:recal_cycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:recal_detransform"
+		},
+		{
+			"weight": 1.0,
+			"key": "alienevo:recal_transform"
+		}
+	]
+}

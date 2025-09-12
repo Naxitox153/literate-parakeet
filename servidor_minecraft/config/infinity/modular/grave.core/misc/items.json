@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "grave.core:advanced_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:advanced_motherboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:basic_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:basic_motherboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:black_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:blue_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:brown_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:copper_wires"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:cpu"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:cyan_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:datacard"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:deepslate_titanium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:dino_thunder_red_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:dino_thunder_red_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:dino_thunder_red_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:dino_thunder_red_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:gray_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:green_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:light_blue_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:light_gray_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:lime_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:magenta_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:netherite_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:orange_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:pink_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:purple_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:red_dino_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:red_dino_morpher"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:red_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:screen"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:silicon_wafer"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:sonic_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:titanium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:titanium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:titanium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:white_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "grave.core:yellow_fabric"
+		}
+	]
+}
