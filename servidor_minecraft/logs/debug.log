@@ -10459,3 +10459,363 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [15Sep2025 03:50:13.975] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [15Sep2025 03:50:19.222] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [15Sep2025 03:51:58.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Naxoxh7) moved wrongly! 0.37493636649987444
+[15Sep2025 03:52:58.669] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:53:04.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morox was slain by Tralalero Tralala
+[15Sep2025 03:53:09.428] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[15Sep2025 03:53:11.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[15Sep2025 03:53:11.851] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[15Sep2025 03:53:11.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 03:53:11.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 03:53:33.573] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:53:36.070] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:53:38.871] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:53:44.119] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:54:00.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Sweet Dreams]
+[15Sep2025 03:54:03.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morox has made the advancement [Sweet Dreams]
+[15Sep2025 03:54:11.721] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:54:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morox was slain by Cachalot Whale
+[15Sep2025 03:54:26.917] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:55:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Cachalot Whale
+[15Sep2025 03:55:04.171] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:55:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -245.500000, 61.500000, -469.500000]
+[15Sep2025 03:55:09.432] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:55:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morox was slain by Cachalot Whale
+[15Sep2025 03:55:14.672] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:56:32.621] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:56:35.512] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:57:01.833] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:57:01.869] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_part_1 is being run through DFU (hash 9ef801b1458eb187bb9dbbbc6dcb4d4c0e84c529c2aa8f94967186f6d409d0d4), this will cause launch time delays
+[15Sep2025 03:57:01.926] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_2 is being run through DFU (hash 93781b295d0623765f2c609cf4bf6765a449ac39f3c3c55b5426812aaf237ddc), this will cause launch time delays
+[15Sep2025 03:57:01.969] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_2 is being run through DFU (hash 3b98e8aeaf403e69a3fad7de7f17c48bf822826c5e01fcfd693001b357c0af8a), this will cause launch time delays
+[15Sep2025 03:57:02.034] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_1 is being run through DFU (hash b7db42b3373133cc4ecbb0b1e74c85081a95b5502212dbcd1aca0d405e0dfed7), this will cause launch time delays
+[15Sep2025 03:57:02.047] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_0 is being run through DFU (hash ed8131990a308c38696bda81118b71a38fca0d13f70cc445daf62e0c4b16c211), this will cause launch time delays
+[15Sep2025 03:57:02.129] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_1 is being run through DFU (hash 8d1e717f7f690c4ecf038323a31ea2af8a2b26e4aa1514c6368f1507f1d22106), this will cause launch time delays
+[15Sep2025 03:57:02.137] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_2 is being run through DFU (hash 674404d5ca3ef8cef61cda2ad120a98b31f3e67d6db899b5f9064d011d9ae5d8), this will cause launch time delays
+[15Sep2025 03:57:02.149] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_ladders_0 is being run through DFU (hash 11164b71518e700dd180d13f05bd869ae125eb4d3618f9ac5037fc48d8b0cc55), this will cause launch time delays
+[15Sep2025 03:57:02.154] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[15Sep2025 03:57:02.160] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_6_main is being run through DFU (hash 95b2db72dc9e5f8b3ebefc1ca0e863a6b019689f1b27f3df017b2feb67f146bf), this will cause launch time delays
+[15Sep2025 03:57:02.167] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[15Sep2025 03:57:02.186] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
+[15Sep2025 03:57:02.200] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[15Sep2025 03:57:02.230] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[15Sep2025 03:57:02.382] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_0 is being run through DFU (hash 8fa188369b14e9fd33fc26d16e7a5b3589222ecaf1739e731218c7fc9bdc42be), this will cause launch time delays
+[15Sep2025 03:57:02.557] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[15Sep2025 03:57:02.571] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_1_middle is being run through DFU (hash e4b60f0c9f9a13df5b86ff0f89d3c3d837c06fb6f865b22ecf738864b7d042df), this will cause launch time delays
+[15Sep2025 03:57:02.963] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:keep_kayra/keep_kayra_main_0 is being run through DFU (hash adaf93d65bc438dd5ad962fbe791a1e44f4e54fa8279dfc9b8fcae02d6813256), this will cause launch time delays
+[15Sep2025 03:57:07.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Sep2025 03:57:09.837] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[15Sep2025 03:57:09.973] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_2 is being run through DFU (hash a022039109e0754e712826ad7f35f6d19a5ffb34cb66ac5a3bee2174a89b9f5c), this will cause launch time delays
+[15Sep2025 03:57:09.978] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[15Sep2025 03:57:10.007] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_13 is being run through DFU (hash 0d47188f34bbe000059890b534c886c94745009000c4bf5bce68ca12facfb932), this will cause launch time delays
+[15Sep2025 03:57:10.292] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_well_0 is being run through DFU (hash f2c98b62ae0d1f718a8b66cadd64325dd33b46ffa2174bc5c0fad867b6e32004), this will cause launch time delays
+[15Sep2025 03:57:10.299] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit is being run through DFU (hash dae2d72b198c77a2d8d771f3da2322814f13e3635deb04fa22d1386c01bf95e1), this will cause launch time delays
+[15Sep2025 03:57:10.323] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_straight_0 is being run through DFU (hash 0255d0be940bbb3d61ac3137a7ed12e4ed750cc899abd459ea6da5737f2fc3ee), this will cause launch time delays
+[15Sep2025 03:57:10.514] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_crossing_start_0 is being run through DFU (hash 5508fdbbe23d2c2fc780fe48a23f9d621456ca6e0aa6ac196e72cf59f1017277), this will cause launch time delays
+[15Sep2025 03:57:10.726] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_start_0 is being run through DFU (hash 82efdd0b4cee90e5e68e22a1ff771036a5dd355f840f9a56c321423a5883e5fa), this will cause launch time delays
+[15Sep2025 03:57:10.920] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_big_0 is being run through DFU (hash 97ca3567cbb388be84c580456221b46df3e4f79b04df1743a0683c68768051ba), this will cause launch time delays
+[15Sep2025 03:57:11.287] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_0 is being run through DFU (hash 682a9ab05e08fa7de0d130f2ce2efe446e2349880c4af076fd6477f2c4c874e7), this will cause launch time delays
+[15Sep2025 03:57:11.355] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_13 is being run through DFU (hash 33537b62427ed79a11fdfbd7bd7e834741242df13ed02a10fc9fa58b6e060bbf), this will cause launch time delays
+[15Sep2025 03:57:11.515] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[15Sep2025 03:57:17.575] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_1 is being run through DFU (hash 1743dc95d02dad52d37e440c2939326a0b355e55b3fd8b4ec8abc5d00123ad10), this will cause launch time delays
+[15Sep2025 03:57:17.729] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[15Sep2025 03:57:29.588] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[15Sep2025 03:57:29.630] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[15Sep2025 03:57:29.694] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[15Sep2025 03:57:29.705] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[15Sep2025 03:57:29.715] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[15Sep2025 03:57:29.750] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[15Sep2025 03:57:29.783] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[15Sep2025 03:57:29.805] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[15Sep2025 03:57:29.812] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[15Sep2025 03:57:29.856] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[15Sep2025 03:57:29.863] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[15Sep2025 03:57:29.878] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[15Sep2025 03:57:29.897] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[15Sep2025 03:57:32.036] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_2 is being run through DFU (hash fcd9576a6a2fbb9c9c9a3a591d5e298318cab018fa17ce47e6d611b9b70e4fa6), this will cause launch time delays
+[15Sep2025 03:57:35.208] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_20 is being run through DFU (hash a1156944d96aa3c0ef77c50d062c271c0b6c97008c2a5b0da9a15c23ebf70a0d), this will cause launch time delays
+[15Sep2025 03:57:38.552] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_6 is being run through DFU (hash fc412bc441f52e517d132887d71fc75c953272010496dbe356e77d33943fe26d), this will cause launch time delays
+[15Sep2025 03:57:56.533] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:01.861] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[15Sep2025 03:58:13.865] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[15Sep2025 03:58:13.866] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[15Sep2025 03:58:13.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 03:58:13.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 03:58:23.021] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:24.234] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:24.666] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10b is being run through DFU (hash 8e67e0978c41562d9d58e02f2f6b0048e2847205ca5eb41073df846c9fb59d68), this will cause launch time delays
+[15Sep2025 03:58:24.898] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:28.120] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:42.103] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_mangrove is being run through DFU (hash d95cfaf85dfb354cf32e4db575eb64bc3343e650c72abb8528721003dab05562), this will cause launch time delays
+[15Sep2025 03:58:42.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_dark_oak is being run through DFU (hash 859f0b24eeecc741738657ccd0a2cb5a04959a60b9b2e90e2f90e43b01d82a78), this will cause launch time delays
+[15Sep2025 03:58:42.107] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_desert is being run through DFU (hash db999c72381af8d60f7b60bcfa0697e64a731b25ea0ee66c8eac99808a29d726), this will cause launch time delays
+[15Sep2025 03:58:42.108] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_jungle is being run through DFU (hash 2052a16449188190153d36cddacdacbf34683046bb951f8ea0c98ba1e6dfe980), this will cause launch time delays
+[15Sep2025 03:58:42.109] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_oak is being run through DFU (hash caf24344ca0a8636eaaaabddb93ce85bb1278469a6e877be7fc7e57bdf8bbec3), this will cause launch time delays
+[15Sep2025 03:58:42.111] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_birch is being run through DFU (hash 8daf78b8f264ec6b3aa78b5e9ea2e28450a718af68e5760404a132321a7aa6a1), this will cause launch time delays
+[15Sep2025 03:58:42.112] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_cherry is being run through DFU (hash 23dc0223674948d578e7aeb846962be02758c8407d604f53c422d83b30cd544c), this will cause launch time delays
+[15Sep2025 03:58:42.113] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_acacia is being run through DFU (hash 63ba303479d914baa70c46b3c9ea82aacd2bfdbc4c7931625f3d99053b9c9d87), this will cause launch time delays
+[15Sep2025 03:58:42.113] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_spruce is being run through DFU (hash bb02976b88e2395d69c80cdf44bb2dc2eb1d975c199889bd7da9286dc714036c), this will cause launch time delays
+[15Sep2025 03:58:42.114] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_snowy is being run through DFU (hash e64bab2a6f251658013dc792f964b42557f9f6c05792e7c4770f8019a0701fcb), this will cause launch time delays
+[15Sep2025 03:58:42.117] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_spruce is being run through DFU (hash ad8425bead9c3f92200708d682a9c082dfd6883582a1847b94cdf03dd0a964f1), this will cause launch time delays
+[15Sep2025 03:58:42.118] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_desert is being run through DFU (hash 705ae1cc5d7631e63fda4a1f6ad3d98b3c16fb2bd7c551dd405aebb85a272981), this will cause launch time delays
+[15Sep2025 03:58:42.118] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_desert is being run through DFU (hash 640ac7e6858940734e2bdda3676ed50560628f90323bf4b68459b38567595361), this will cause launch time delays
+[15Sep2025 03:58:42.119] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_oak is being run through DFU (hash cda702c3168a62e38edde6ce24455def5024f5e8783c2cdce92a2da416b5e096), this will cause launch time delays
+[15Sep2025 03:58:42.120] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_snowy is being run through DFU (hash 19aec05963606b76b20222a72947d50c706dcfc031a3a245abc98545ab032c8f), this will cause launch time delays
+[15Sep2025 03:58:42.121] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_cherry is being run through DFU (hash 4a34dc095ccfe73e42d9327f8b2119df58e4555cdcd588a8acf513203d7f2f90), this will cause launch time delays
+[15Sep2025 03:58:42.122] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_acacia is being run through DFU (hash 18a356efd6e4e344f13f7222bc3334713c1691a10e5c78141829b72b5fd36ed8), this will cause launch time delays
+[15Sep2025 03:58:42.123] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_dark_oak is being run through DFU (hash 897eb1a85ed0d1da5bc25226224490f6be9641d5ae8798a27b14223046e83e68), this will cause launch time delays
+[15Sep2025 03:58:42.123] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_dark_oak is being run through DFU (hash dcc757167a5409d21d0e59e4ab3ff7381ac1ea647b3d97b9417c71661c2f284d), this will cause launch time delays
+[15Sep2025 03:58:42.124] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_oak is being run through DFU (hash cf9791ae880cfb2f48283ac00e20fe496b48d5a74f5bb8f70aff2159983122ff), this will cause launch time delays
+[15Sep2025 03:58:42.125] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_spruce is being run through DFU (hash 17039eb8ecc74a500484afd2b5988494d3255e1b1b55015a4cf31e1a4fecd94b), this will cause launch time delays
+[15Sep2025 03:58:42.125] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_mangrove is being run through DFU (hash 2497ae2cf28f3e4d2d600be7251bb9fd816c7b96578a5d6b17cbfc9f4926ef87), this will cause launch time delays
+[15Sep2025 03:58:42.126] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_cherry is being run through DFU (hash fafa5d8432fccea267fd09187fcce08065f34f9dbcf9cf3d49674e279ca30cb9), this will cause launch time delays
+[15Sep2025 03:58:42.127] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_jungle is being run through DFU (hash a6487c10145dc78c32e85bfaaacad4c3bc1879eab50a18f5e55aff06472f6fa1), this will cause launch time delays
+[15Sep2025 03:58:42.127] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_birch is being run through DFU (hash 82f82c2d8c381b83a471bc8feb41a1e9297efa2fef70c95bd2a8af125a4be8d4), this will cause launch time delays
+[15Sep2025 03:58:42.128] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_stonecutter is being run through DFU (hash d7c4e4fff4d117d33e5ab6bbd7b1ff8ff8039a3b1217e857c76d3d6de2f4247d), this will cause launch time delays
+[15Sep2025 03:58:42.129] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_trader is being run through DFU (hash 0effec3f38e4969622b318408e1d3c87637fcb8e0ff075e9dfcfc9f8740fe2c8), this will cause launch time delays
+[15Sep2025 03:58:42.129] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_spruce is being run through DFU (hash 24a169260ea2f7524dd3b9fe85b50f2f177fe2ec5c4878a6b70180ce1f2c7843), this will cause launch time delays
+[15Sep2025 03:58:42.130] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_spruce is being run through DFU (hash 6875aaabb8458e4388924690b53d9d69dd22a80bc6288b9185c33b279939bcde), this will cause launch time delays
+[15Sep2025 03:58:42.130] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_spruce is being run through DFU (hash 3299cc61ca1a2f1f1e8d582447e9409ca44f261e745e62fb496cf0fd6c4540c6), this will cause launch time delays
+[15Sep2025 03:58:42.131] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_spruce is being run through DFU (hash 7884ff63adb03466a79e33a0543d41ec5c6063a36457e7c15f656cdd97b4cbef), this will cause launch time delays
+[15Sep2025 03:58:42.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_spruce is being run through DFU (hash 0a95bd33acd6405f4b5fed88d102708b575468607c81e5f0591f37f93c658bdb), this will cause launch time delays
+[15Sep2025 03:58:42.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_spruce is being run through DFU (hash f4c9e7c87cc97a6a709cd445aa3b63cc3869f9c1a365afd600e25f285b65dc79), this will cause launch time delays
+[15Sep2025 03:58:42.133] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_acacia is being run through DFU (hash 877855e3fd7caf300ba5e39f080d938a06b3d3fa4c5f857a1a089c6858fb6edb), this will cause launch time delays
+[15Sep2025 03:58:42.134] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_acacia is being run through DFU (hash abf3462ef5e7e59df7b05fa2b4f77445c20a9721eecfa642cd077143d63fd248), this will cause launch time delays
+[15Sep2025 03:58:42.134] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_acacia is being run through DFU (hash 9dd9d39e8533d516db94ada6a56d79c405d7688ffc18eebb1151befedb43573a), this will cause launch time delays
+[15Sep2025 03:58:42.135] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_acacia is being run through DFU (hash 59060f2ea42efe9f9df1f20aa715af52cd495b928c46f9381437ea6b7b78b0a1), this will cause launch time delays
+[15Sep2025 03:58:42.136] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_acacia is being run through DFU (hash bcbe7e02ceb770ba9320af3f34ed3b43ee95f385ad18afadb2f79523e8354dd9), this will cause launch time delays
+[15Sep2025 03:58:42.136] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_acacia is being run through DFU (hash d7f0588b5c79a5fca7485f04dd4787bba0a5062edbe5d0e8f8981986f1360c5d), this will cause launch time delays
+[15Sep2025 03:58:42.137] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_acacia is being run through DFU (hash 07580b692de38d0f4ccdd44ec051640a3963d92b74075af5be4eb1d45c309f82), this will cause launch time delays
+[15Sep2025 03:58:42.138] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_birch is being run through DFU (hash 477c8fbab5b93062e27997c046c05744dd5c70a963228f58aa0c172ef217d580), this will cause launch time delays
+[15Sep2025 03:58:42.139] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_birch is being run through DFU (hash 6c6c7537d8817f56ff019aba186e82a98de2e928617dcc2a498ad76675219478), this will cause launch time delays
+[15Sep2025 03:58:42.140] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_birch is being run through DFU (hash a32925b2ad353bbbb9c9a463fd7a003d27f670a4e4105f1456a0560626227f0f), this will cause launch time delays
+[15Sep2025 03:58:42.141] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_birch is being run through DFU (hash 3fff9754fa31ae55a5181cf6384ee7a258bcdae8a2b60e3483e78f5d010f7904), this will cause launch time delays
+[15Sep2025 03:58:42.141] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_birch is being run through DFU (hash 09d327a183050cf1d62896dae2d0acc9c8fd17962cbdbf1e7c3d5cce593db1a9), this will cause launch time delays
+[15Sep2025 03:58:42.142] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_birch is being run through DFU (hash a55a371fc5b05ee678a8a42b08f5f69e49216a21761e4b0f7fc72ee1cbd2d8a6), this will cause launch time delays
+[15Sep2025 03:58:42.143] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_birch is being run through DFU (hash cd8a5a1332eae60db10cd86b947227e3a4bcf2735fe76d5f623b9b82c948b5b2), this will cause launch time delays
+[15Sep2025 03:58:42.143] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_desert is being run through DFU (hash 1b802611b90b9c7e1e22bb87114ec1ce037577c5fcee48299b8f74325a11c3c0), this will cause launch time delays
+[15Sep2025 03:58:42.144] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_desert is being run through DFU (hash 4297845be159395bf1061b0b60d015a142cc8515e708fb3abc2fbfe21c3ee2da), this will cause launch time delays
+[15Sep2025 03:58:42.145] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_desert is being run through DFU (hash b3977395f434ea66192455520de2a44b359157f0fc59d2e0f328e5914bdecae6), this will cause launch time delays
+[15Sep2025 03:58:42.145] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_desert is being run through DFU (hash 846d99bcf80624125ba8508d65f2a41ba01f02386d0d25bf9fff84ef9f324fc6), this will cause launch time delays
+[15Sep2025 03:58:42.146] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_desert is being run through DFU (hash ab333b4316f4a5675d782a34a9eecce3a71392246ecb1f96df56a75a4b8413e5), this will cause launch time delays
+[15Sep2025 03:58:42.146] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_desert is being run through DFU (hash 2d2dc3520a9a0cdf1a33aaba5626b89d8a857745194715abada6b16133967549), this will cause launch time delays
+[15Sep2025 03:58:42.147] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_mangrove is being run through DFU (hash 2c5f9aea79fafb3f49ef442cff4451053b9c20edb8e81f0d8ee24b751dd9eac2), this will cause launch time delays
+[15Sep2025 03:58:42.148] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_mangrove is being run through DFU (hash 14b5508469ffaba301346d11d3ac251150b56f1614245bcb0f372100c799c7e5), this will cause launch time delays
+[15Sep2025 03:58:42.149] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_mangrove is being run through DFU (hash d0c73612e4c3d62ab9425ef6764e66b7abfb1b46ba31f1ea6d04da8112d1177e), this will cause launch time delays
+[15Sep2025 03:58:42.149] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_mangrove is being run through DFU (hash 09e7aa54f79fb9455e02d339d84380bfca2c96baf635f337736e483af373f2ac), this will cause launch time delays
+[15Sep2025 03:58:42.150] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_mangrove is being run through DFU (hash df6ff6ed27dc5146b97ff70a6f572336c2fb698b9a2cf56ece6d7ec3bfc0a12a), this will cause launch time delays
+[15Sep2025 03:58:42.150] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_mangrove is being run through DFU (hash 2b2683707a17974e0eb925ff0b163a6f048cbd5f4cda80cc692bb280002f4af8), this will cause launch time delays
+[15Sep2025 03:58:42.151] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_mangrove is being run through DFU (hash 1a04bba0fc04bc91c25623db8a2da4c479c8c778f79e0881572d3d25f20708df), this will cause launch time delays
+[15Sep2025 03:58:42.152] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_dark_oak is being run through DFU (hash 0fd3a56aacfa2974e2ef389288f88224223267ebf94eb7d15081a86141d69b52), this will cause launch time delays
+[15Sep2025 03:58:42.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_dark_oak is being run through DFU (hash 5e4272ed678f777fda41b2b8c7b278d735ff33921203cf2b37b3784b024bad09), this will cause launch time delays
+[15Sep2025 03:58:42.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_dark_oak is being run through DFU (hash 7fcecb623f33d568703c9e6215b8f60b3beb4a7cbda0a46073c2222855af07b3), this will cause launch time delays
+[15Sep2025 03:58:42.154] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_dark_oak is being run through DFU (hash 68329545bc2dcdcac7c7c66ddcfa3265f9a3c7b7235889b4c9269e82027d8a97), this will cause launch time delays
+[15Sep2025 03:58:42.155] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_dark_oak is being run through DFU (hash 0246bd118a68ecab1d1568221cc2884d4cc1aff230460c6f643a0196e55da033), this will cause launch time delays
+[15Sep2025 03:58:42.156] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_wandering_farmer_dark_oak is being run through DFU (hash 58194e1a96c30d7eaccc51a7b5bfe271b67cb4b48246d66728e0fb8e78c718fb), this will cause launch time delays
+[15Sep2025 03:58:42.157] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_dark_oak is being run through DFU (hash 589878cab189b9ec3609caf092491ad71b461d0a016680fc30a07c05a2bc5279), this will cause launch time delays
+[15Sep2025 03:58:42.157] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_oak is being run through DFU (hash 16ec8b2e830cd96cf20985658eca6bb44675d4015fa2ea78f34d99815158a7ca), this will cause launch time delays
+[15Sep2025 03:58:42.158] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_oak is being run through DFU (hash 1a3641acf65ca5351894f926328ec5bae62653b4462fcb711741fd2fa1234cbc), this will cause launch time delays
+[15Sep2025 03:58:42.159] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_oak is being run through DFU (hash ced3f83cb0bb94a7668ecf3162ef7127e9b7f6d5c8c62d2758db6b29cb4e873f), this will cause launch time delays
+[15Sep2025 03:58:42.159] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_oak is being run through DFU (hash 675336fa11637aa89902c538bd5d857b3d9f385c92bf789d3698fa6450c9808c), this will cause launch time delays
+[15Sep2025 03:58:42.160] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_oak is being run through DFU (hash fe8d942a858f614eee87c60b60a6fb66f47ccfc34243e91215c993e91748ef2a), this will cause launch time delays
+[15Sep2025 03:58:42.161] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_oak is being run through DFU (hash c96ff2a9361f6b97db82b167f2a89bc9de37d9da0780a9c47ba62796aa183153), this will cause launch time delays
+[15Sep2025 03:58:42.161] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_cherry is being run through DFU (hash 46fe86d5a6130a07478c9bb787a688f5f122653d6de2839347b1248a0f0e37d0), this will cause launch time delays
+[15Sep2025 03:58:42.162] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_cherry is being run through DFU (hash 3a8e1b1f73bf8d638ead3651a4dcdcc41fc307da95c5e66df43d1013c6d555c8), this will cause launch time delays
+[15Sep2025 03:58:42.163] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_cherry is being run through DFU (hash a48485c53abee1e7a73efcc4345be471507f49b2aa83ce62eba00f9dc782d971), this will cause launch time delays
+[15Sep2025 03:58:42.164] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_cherry is being run through DFU (hash 95c573b47d5429ce75e04acfdc9e887749f34dacb485bce46f7eb2c22ea56802), this will cause launch time delays
+[15Sep2025 03:58:42.164] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_cherry is being run through DFU (hash 9afbe86464e7d5b9f6590f3af3771c8abb7fdb055c59454c79630f92ce132416), this will cause launch time delays
+[15Sep2025 03:58:42.165] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_cherry is being run through DFU (hash 282a4da33def03e0ce2da9c46cfe46a824699f97145493404d32a32427fedcae), this will cause launch time delays
+[15Sep2025 03:58:42.166] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_swamp is being run through DFU (hash c52afd4e83bda37ebedaf088747670c9197f38abe2fc0edbc9066fd872cd182d), this will cause launch time delays
+[15Sep2025 03:58:42.167] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_swamp is being run through DFU (hash d93a81722902d3d023c77123d1b289ea5d943eca583f2db3ab4ddada2a23718d), this will cause launch time delays
+[15Sep2025 03:58:42.168] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_swamp is being run through DFU (hash e0b4ce4eaf983350843f048766dad2f3c085e4f5e24a537ff5904a8ebfe1b4a3), this will cause launch time delays
+[15Sep2025 03:58:42.168] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_swamp is being run through DFU (hash 6c843cc0fbd730e16202361361c94ae8605b44bda1c717faa87b517dcc14974c), this will cause launch time delays
+[15Sep2025 03:58:42.169] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_swamp is being run through DFU (hash 5a169090d209934acf6e482feab28fb2d657930e25bfeefd1f5402e74ca5a4c9), this will cause launch time delays
+[15Sep2025 03:58:42.169] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_swamp is being run through DFU (hash 22edabae7a0301ce72514dfa5a578b68442df6d98da85b089879948d2fa5816d), this will cause launch time delays
+[15Sep2025 03:58:42.170] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_swamp is being run through DFU (hash d3849ff9141d0501f1229eea2e798e1f9c4385ab261d1688904b68a6dcc0f0ac), this will cause launch time delays
+[15Sep2025 03:58:42.171] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_jungle is being run through DFU (hash 67374ff016109fc183c33c18e1f5e3d8c15d5f975a498021b309cd703a74a94a), this will cause launch time delays
+[15Sep2025 03:58:42.172] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_jungle is being run through DFU (hash 61e9dbe02c35adbeb7183fe233ee0ffecf38669a5bac1ed37e4f14519ea4e3ef), this will cause launch time delays
+[15Sep2025 03:58:42.172] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_jungle is being run through DFU (hash 8f824323bdd5e918d3294b4d47e6ac3a9702df41556d1a1e1fc6deaba3a7c8e6), this will cause launch time delays
+[15Sep2025 03:58:42.173] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_jungle is being run through DFU (hash 914e067f41ada9397f4aa5c0b258743cb1873a6d9374d0f8688e5880879cbd69), this will cause launch time delays
+[15Sep2025 03:58:42.173] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_jungle is being run through DFU (hash 91f89b1cf89af95837ceeb769e377f3ab5b2c2f8810fa90c8f2e28f958893cd8), this will cause launch time delays
+[15Sep2025 03:58:42.174] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_jungle is being run through DFU (hash 0a33a40294ae33ba63ca7a2fd91388aaec706301cbcd989a31b57992c42cbf3e), this will cause launch time delays
+[15Sep2025 03:58:42.175] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_jungle is being run through DFU (hash 365ebf3f57271c1ebab600a8d3e41bcb89131faab587755efda066848b153d94), this will cause launch time delays
+[15Sep2025 03:58:42.175] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_snowy is being run through DFU (hash eb4fc119383d6d4e5c26d8c524b73962bf572b773f054d95d01c7f9154472dc9), this will cause launch time delays
+[15Sep2025 03:58:42.176] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_snowy is being run through DFU (hash f811e0da52deb70f63e327ab6de0a407c7b6a246c2d27c30e8b69515e14748f6), this will cause launch time delays
+[15Sep2025 03:58:42.177] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_snowy is being run through DFU (hash df7c023c1bcd4ac623c2051d6fb1306aa4e20160a0d30ab21a84ebe99eff606b), this will cause launch time delays
+[15Sep2025 03:58:42.177] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_snowy is being run through DFU (hash fa6ea84b110f0b2c8592133e08247714543720a77e87edb838b09c28844cbf44), this will cause launch time delays
+[15Sep2025 03:58:42.178] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_snowy is being run through DFU (hash 33935775bd492becc11730c84e0d39f33bed6d7192705a52218ae47ca3e45601), this will cause launch time delays
+[15Sep2025 03:58:42.178] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_snowy is being run through DFU (hash 62dc12c66bcefef4d5ffc28536a4d16a7ecc6eb7aa2ecb0b3a098b962877844e), this will cause launch time delays
+[15Sep2025 03:58:42.179] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_snowy is being run through DFU (hash 99a85b86964fe6a58d65bae4af83d9e7778279fcee8363b4348becbf2755d419), this will cause launch time delays
+[15Sep2025 03:58:42.180] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_cartographer is being run through DFU (hash 6e6312ee2b2a8a569a9a85ab877afa9d3764779a1faafef97bede8bdea9dd21e), this will cause launch time delays
+[15Sep2025 03:58:42.180] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_cleric is being run through DFU (hash 8ca276de099594ff75a4bc46f982ea7cfb1e0b99b9d698d7edcbe678fc304b79), this will cause launch time delays
+[15Sep2025 03:58:42.181] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_farmer is being run through DFU (hash 7ba67ef9bc65ea2f6e93b0a980b47f980c7050e5d8974f9e1bb7a487c17fa333), this will cause launch time delays
+[15Sep2025 03:58:42.182] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_fisher is being run through DFU (hash 1f92f021d097bb4edb904b780850ebcdddb3449fc4d76961a08de0066b767834), this will cause launch time delays
+[15Sep2025 03:58:42.182] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_fletcher is being run through DFU (hash 8ded96c8156d618eb5c04356c97fa596b0e881d73010bfb471ad513564a601f8), this will cause launch time delays
+[15Sep2025 03:58:42.183] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_grindstone is being run through DFU (hash b5c8ed512cda24a2c36d0e515bd2563cfcf98cb476a8ba6846582eca2dff292f), this will cause launch time delays
+[15Sep2025 03:58:42.183] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_leather_worker is being run through DFU (hash 88d66ed2e8aeca6e4ee8318fe0a5973c9239b638dc25fae622103eb78de585a3), this will cause launch time delays
+[15Sep2025 03:58:42.184] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_librarian is being run through DFU (hash 6c098669be678d9f70acfaf0af33e7138bcaa1f325b27a7838c9038e67157c78), this will cause launch time delays
+[15Sep2025 03:58:42.185] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_loom is being run through DFU (hash 8f37cb7e885d81566455c32aea96a147a93755dcaba2b845e5ec7489a2d8a421), this will cause launch time delays
+[15Sep2025 03:58:42.185] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_smithing_table is being run through DFU (hash b6b78e102ebd79cd2369bd2edeca31f106da478b679aab0df709c4885071709e), this will cause launch time delays
+[15Sep2025 03:58:42.186] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_armorer is being run through DFU (hash 01ed3fc532ffe58634105d1662dc7faf275eb3d048eecdcbc37840e077c92d0b), this will cause launch time delays
+[15Sep2025 03:58:42.186] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_butcher is being run through DFU (hash da7407133e69c7f924c318f41c432b1e2527ddbf30f58d2de7ff2b64abda6dca), this will cause launch time delays
+[15Sep2025 03:58:42.187] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_villager is being run through DFU (hash 3a7ae2cf2152cadacb40ed60a300da54748bbb907ee9b8a0d56df751c8f13a3d), this will cause launch time delays
+[15Sep2025 03:58:43.541] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_5b is being run through DFU (hash 3989f505e26e367a6ff51499026fa2e8207f71b1d7ac829a06a0fe57b8758949), this will cause launch time delays
+[15Sep2025 03:58:51.766] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:58:57.584] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:stray_fort/stray_fort_1 is being run through DFU (hash 8caa036cf5eef05213fdee6237b61fb606df119f2817cce88f5f038af236ef0c), this will cause launch time delays
+[15Sep2025 03:59:06.964] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:59:55.874] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 03:59:56.877] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:00:18.863] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:00:42.943] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -438,67,-966,minecraft:overworld as filled
+[15Sep2025 04:01:08.622] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:01:12.262] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:01:13.242] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:01:17.211] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_part_1 is being run through DFU (hash e8c6d3e71ef55eb4e2b4d247afdf0a34e24ccb53d0e13a0194b4ca8a4d6cf178), this will cause launch time delays
+[15Sep2025 04:01:17.348] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_part_0 is being run through DFU (hash 4dd72dca6835da753f865f518aa76d9d071b61a048e56e37a0ee3c37b332e5ed), this will cause launch time delays
+[15Sep2025 04:01:17.435] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_2 is being run through DFU (hash ae73f209572847a5f20652eaa24cac43a158c2456b9623e26ecac259528e498b), this will cause launch time delays
+[15Sep2025 04:01:17.516] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_1 is being run through DFU (hash fa1f924aa834900f127450bbca4ddf20807ad5807442e5d27e158f3e2c4a9c2e), this will cause launch time delays
+[15Sep2025 04:01:17.524] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_0 is being run through DFU (hash 3c764b0bc7c91cf2dfa1c4bb629a1f8b680ec45d3621216d0e5e28d179428ae9), this will cause launch time delays
+[15Sep2025 04:01:20.755] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:01:43.102] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:02:03.699] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:02:22.659] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:02:23.732] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:02:25.596] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 04:02:43.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> xaero-waypoint:dungfens}:D:-486:80:-1099:11:false:0:Internal-overworld-waypoints

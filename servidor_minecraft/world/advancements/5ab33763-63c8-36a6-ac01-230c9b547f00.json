@@ -58,7 +58,8 @@
       "minecraft:bamboo_jungle": "2025-09-15 03:21:37 +0000",
       "minecraft:sparse_jungle": "2025-09-15 03:14:08 +0000",
       "minecraft:lukewarm_ocean": "2025-09-15 03:42:17 +0000",
-      "minecraft:stony_shore": "2025-09-15 03:24:29 +0000"
+      "minecraft:stony_shore": "2025-09-15 03:24:29 +0000",
+      "minecraft:plains": "2025-09-15 03:54:45 +0000"
     },
     "done": false
   },
@@ -88,6 +89,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-15 03:57:56 +0000",
       "minecraft:skeleton": "2025-09-15 03:37:14 +0000",
       "minecraft:zombie": "2025-09-15 03:15:05 +0000"
     },
@@ -1076,6 +1078,8 @@
       "cooked_porkchop": "2025-09-15 03:30:55 +0000",
       "cooked_beef": "2025-09-15 03:41:52 +0000",
       "potato": "2025-09-15 03:44:03 +0000",
+      "mutton": "2025-09-15 03:49:30 +0000",
+      "bread": "2025-09-15 03:51:12 +0000",
       "cooked_chicken": "2025-09-15 03:31:00 +0000"
     },
     "done": false
@@ -1224,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-09-15 03:48:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-09-15 03:48:07 +0000"
@@ -1241,6 +1251,12 @@
       "has_potato": "2025-09-15 03:44:01 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-09-15 03:57:22 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
     "criteria": {
@@ -1440,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-15 03:57:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-09-15 03:48:07 +0000"
@@ -1452,9 +1474,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-15 03:48:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2025-09-15 03:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-15 03:54:03 +0000"
     },
     "done": true
   },
@@ -1485,6 +1519,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 03:47:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-09-15 03:57:59 +0000"
     },
     "done": true
   },
@@ -1557,6 +1597,12 @@
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-09-15 03:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-15 03:48:19 +0000"
     },
     "done": true
   },
@@ -1692,6 +1738,12 @@
     },
     "done": true
   },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-09-15 03:48:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 03:47:46 +0000"
@@ -1725,6 +1777,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 03:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-09-15 03:48:57 +0000"
     },
     "done": true
   },
@@ -1812,6 +1870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-15 03:51:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-09-15 03:48:07 +0000"
@@ -1827,6 +1891,12 @@
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-09-15 03:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-15 03:48:57 +0000"
     },
     "done": true
   },
@@ -1911,6 +1981,12 @@
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-09-15 03:48:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-09-15 03:50:00 +0000"
     },
     "done": true
   },
