@@ -1,0 +1,63 @@
+{
+  "satsu_iron_man_addon:arc_charge_block": {
+    "criteria": {
+      "arc_upgrade": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:armor_constructor": {
+    "criteria": {
+      "arc_reactor": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:ia_tarjet": {
+    "criteria": {
+      "ia tarjet": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:arc_reactor_root": {
+    "criteria": {
+      "arc_reactor": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-09-15 03:17:34 +0000"
+    },
+    "done": false
+  },
+  "satsu_iron_man_addon:root": {
+    "criteria": {
+      "0": "2025-09-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
