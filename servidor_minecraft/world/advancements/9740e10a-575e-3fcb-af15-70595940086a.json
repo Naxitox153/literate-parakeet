@@ -49,9 +49,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-09-15 04:03:16 +0000",
       "minecraft:bamboo_jungle": "2025-09-15 03:18:49 +0000",
+      "minecraft:beach": "2025-09-15 04:00:38 +0000",
       "minecraft:sparse_jungle": "2025-09-15 03:17:34 +0000",
       "minecraft:lukewarm_ocean": "2025-09-15 03:42:00 +0000",
+      "minecraft:river": "2025-09-15 03:58:40 +0000",
       "minecraft:stony_shore": "2025-09-15 03:24:21 +0000",
       "minecraft:savanna": "2025-09-15 03:57:51 +0000",
       "minecraft:plains": "2025-09-15 03:57:17 +0000"
@@ -976,6 +979,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-15 03:30:19 +0000",
+      "minecraft:creeper": "2025-09-15 04:07:47 +0000",
       "minecraft:zombie": "2025-09-15 03:37:11 +0000"
     },
     "done": false
@@ -1532,9 +1536,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-15 04:06:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-09-15 04:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-09-15 03:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-15 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-15 04:06:18 +0000"
     },
     "done": true
   },
@@ -1544,9 +1572,81 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-09-15 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-15 04:06:30 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-09-15 04:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-09-15 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-09-15 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/raw_titanium_block": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-15 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-09-15 04:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-15 04:06:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-09-15 04:08:12 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_smelting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-15 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_blasting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-15 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-09-15 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-09-15 04:06:18 +0000"
     },
     "done": true
   },
