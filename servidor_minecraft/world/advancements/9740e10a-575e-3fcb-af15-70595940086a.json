@@ -52,12 +52,15 @@
       "minecraft:sunflower_plains": "2025-09-15 04:03:16 +0000",
       "minecraft:bamboo_jungle": "2025-09-15 03:18:49 +0000",
       "minecraft:beach": "2025-09-15 04:00:38 +0000",
+      "minecraft:dark_forest": "2025-09-15 05:06:28 +0000",
       "minecraft:sparse_jungle": "2025-09-15 03:17:34 +0000",
       "minecraft:lukewarm_ocean": "2025-09-15 03:42:00 +0000",
       "minecraft:river": "2025-09-15 03:58:40 +0000",
       "minecraft:stony_shore": "2025-09-15 03:24:21 +0000",
       "minecraft:forest": "2025-09-15 04:15:25 +0000",
+      "minecraft:windswept_forest": "2025-09-15 05:06:14 +0000",
       "minecraft:ocean": "2025-09-15 04:24:19 +0000",
+      "minecraft:windswept_savanna": "2025-09-15 05:05:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-15 04:15:34 +0000",
       "minecraft:savanna": "2025-09-15 03:57:51 +0000",
       "minecraft:plains": "2025-09-15 03:57:17 +0000"
@@ -940,6 +943,8 @@
       "cooked_beef": "2025-09-15 03:31:38 +0000",
       "baked_potato": "2025-09-15 04:47:25 +0000",
       "bread": "2025-09-15 03:40:18 +0000",
+      "golden_apple": "2025-09-15 05:11:12 +0000",
+      "enchanted_golden_apple": "2025-09-15 05:11:23 +0000",
       "carrot": "2025-09-15 03:45:47 +0000"
     },
     "done": false
@@ -987,6 +992,8 @@
       "minecraft:vindicator": "2025-09-15 04:28:14 +0000",
       "minecraft:spider": "2025-09-15 04:33:03 +0000",
       "minecraft:creeper": "2025-09-15 04:07:47 +0000",
+      "minecraft:evoker": "2025-09-15 05:10:34 +0000",
+      "minecraft:witch": "2025-09-15 05:12:21 +0000",
       "minecraft:zombie": "2025-09-15 03:37:11 +0000"
     },
     "done": false
@@ -1591,6 +1598,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "mansion": "2025-09-15 05:07:00 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/dye_pink_picket_fence": {
     "criteria": {
       "has_dye": "2025-09-15 04:52:52 +0000"
@@ -1771,6 +1784,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-15 05:07:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_mail_box": {
     "criteria": {
       "has_chest": "2025-09-15 04:49:49 +0000"
@@ -1783,6 +1802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-15 05:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-09-15 04:12:00 +0000"
@@ -1792,6 +1817,12 @@
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-09-15 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-15 05:08:32 +0000"
     },
     "done": true
   },
@@ -1885,6 +1916,12 @@
     },
     "done": true
   },
+  "grave.core:recipes/light_gray_fabric": {
+    "criteria": {
+      "has_wool": "2025-09-15 05:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-15 04:52:52 +0000"
@@ -1963,6 +2000,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-15 05:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-09-15 04:12:00 +0000"
@@ -1999,6 +2042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-15 05:07:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-09-15 04:12:00 +0000"
@@ -2029,6 +2078,12 @@
     },
     "done": true
   },
+  "grave.core:recipes/black_fabric": {
+    "criteria": {
+      "has_wool": "2025-09-15 05:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-09-15 04:06:18 +0000"
@@ -2056,6 +2111,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_lightning_dragon": "2025-09-15 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-09-15 05:07:00 +0000"
     },
     "done": true
   },
@@ -2179,6 +2240,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-09-15 05:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-09-15 04:12:00 +0000"
@@ -2194,6 +2261,12 @@
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-09-15 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-09-15 05:08:32 +0000"
     },
     "done": true
   },
@@ -2287,6 +2360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-15 05:07:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-09-15 04:49:49 +0000"
@@ -2320,6 +2399,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-09-15 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-15 05:07:31 +0000"
     },
     "done": true
   },
@@ -2695,6 +2780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-15 05:07:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-09-15 04:49:49 +0000"
@@ -2704,6 +2795,12 @@
   "cfm:recipes/decorations/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-09-15 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-15 05:07:31 +0000"
     },
     "done": true
   },
@@ -2722,6 +2819,12 @@
   "cfm:recipes/decorations/dye_pink_picket_gate": {
     "criteria": {
       "has_dye": "2025-09-15 04:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-15 05:07:31 +0000"
     },
     "done": true
   },
