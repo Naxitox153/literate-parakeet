@@ -5814,3 +5814,69 @@ com.google.gson.JsonParseException: Ability 'alienevo:quick_cycle_next' does not
 [26Sep2025 23:21:06.320] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$f3fa654173164a068779c462c19bb539 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
 [26Sep2025 23:21:06.407] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_17 is being run through DFU (hash 8c678a1516a24e6ac364b6b88c322dd04470a6d2486ac05bed12a38345207130), this will cause launch time delays
 [26Sep2025 23:21:11.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Book of Monsters]
+[26Sep2025 23:24:53.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Sep2025 23:24:53.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Sep2025 23:25:03.978] [Server thread/ERROR] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/ride.js#13: Error in 'ItemEvents.entityInteracted': Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.decoration.ItemFrame,string).
+[26Sep2025 23:25:03.979] [Server thread/ERROR] [KubeJS Server/]: …rhino.EvaluatorException: Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.decoration.ItemFrame,string). (addonpack_alienevo:kubejs_scripts/ride.js#13)
+[26Sep2025 23:25:03.979] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
+[26Sep2025 23:25:03.979] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:133)
+[26Sep2025 23:25:03.980] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:173)
+[26Sep2025 23:25:03.980] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError1(Context.java:145)
+[26Sep2025 23:25:03.980] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:379)
+[26Sep2025 23:25:03.980] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[26Sep2025 23:25:03.980] [Server thread/ERROR] [KubeJS Server/]:   at script(addonpack_alienevo:kubejs_scripts/ride.js:13)
+[26Sep2025 23:25:03.981] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[26Sep2025 23:25:03.981] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[26Sep2025 23:25:03.981] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[26Sep2025 23:25:03.981] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.doTopCall(Context.java:1374)
+[26Sep2025 23:25:03.981] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[26Sep2025 23:25:03.981] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[26Sep2025 23:25:03.982] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[26Sep2025 23:25:03.982] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[26Sep2025 23:25:03.982] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[26Sep2025 23:25:03.982] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[26Sep2025 23:25:03.982] [Server thread/ERROR] [KubeJS Server/]:   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy55.onEvent(Unknown Source)
+[26Sep2025 23:25:03.983] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[26Sep2025 23:25:03.983] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[26Sep2025 23:25:03.983] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[26Sep2025 23:25:03.983] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[26Sep2025 23:25:03.983] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.item.KubeJSItemEventHandler.entityInteract(KubeJSItemEventHandler.java:57)
+[26Sep2025 23:25:03.983] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.EventHandlerImplCommon.eventPlayerInteractEvent(EventHandlerImplCommon.java:348)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.__EventHandlerImplCommon_eventPlayerInteractEvent_EntityInteract.invoke(.dynamic)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+[26Sep2025 23:25:03.984] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+[26Sep2025 23:25:03.985] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+[26Sep2025 23:25:03.985] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+[26Sep2025 23:25:03.985] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+[26Sep2025 23:25:03.985] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+[26Sep2025 23:25:03.985] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+[26Sep2025 23:25:03.985] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.TickTask.run(TickTask.java:18)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+[26Sep2025 23:25:03.986] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+[26Sep2025 23:25:03.987] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[26Sep2025 23:25:03.987] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$256(MinecraftServer.java)
+[26Sep2025 23:25:03.987] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.wrapOperation$bao000$managedBlock(MinecraftServer.java:1856)
+[26Sep2025 23:25:03.987] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+[26Sep2025 23:25:03.987] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+[26Sep2025 23:25:03.987] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[26Sep2025 23:25:03.988] [Server thread/ERROR] [KubeJS Server/]:   at java.lang.Thread.run(Thread.java:840)
+[26Sep2025 23:26:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Isn't It Iron Pick]
+[26Sep2025 23:28:26.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[26Sep2025 23:28:26.777] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[26Sep2025 23:28:45.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[26Sep2025 23:28:50.191] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_29 is being run through DFU (hash bb28b28cbbf82aaac84e418a24d4c13d4b2bbb58480df5a1c0aadbeb709bf08d), this will cause launch time delays
+[26Sep2025 23:28:54.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Disconnected
+[26Sep2025 23:28:54.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
+[26Sep2025 23:29:53.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Sep2025 23:29:53.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
