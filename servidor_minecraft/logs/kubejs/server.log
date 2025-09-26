@@ -1,47 +1,47 @@
-[02:35:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[02:35:50] [INIT] Loaded plugins:
-[02:35:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[02:35:50] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[02:35:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[02:35:51] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.023 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.0 s
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.004 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.002 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.002 s
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.006 s
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
-[02:35:51] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.018 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.001 s
-[02:35:51] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
-[02:35:51] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
-[02:35:51] [INFO] Loaded 31/31 KubeJS server scripts in 0.093 s with 0 errors and 0 warnings
-[02:35:51] [INFO] Scripts loaded
-[02:35:51] [INFO] Initializing recipe event...
+[22:15:11] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:15:11] [INIT] Loaded plugins:
+[22:15:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:15:11] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[22:15:12] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[22:15:12] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.0 s
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.013 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.006 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.002 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[22:15:12] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.004 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.015 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.001 s
+[22:15:12] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[22:15:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.001 s
+[22:15:12] [INFO] Loaded 31/31 KubeJS server scripts in 0.078 s with 0 errors and 0 warnings
+[22:15:12] [INFO] Scripts loaded
+[22:15:12] [INFO] Initializing recipe event...
