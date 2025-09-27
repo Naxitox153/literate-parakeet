@@ -6397,3 +6397,16 @@ com.google.gson.JsonParseException: Ability 'alienevo:quick_cycle_next' does not
 [27Sep2025 03:03:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [The Core of It All]
 [27Sep2025 03:04:53.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Sep2025 03:04:53.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Sep2025 03:05:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [The Lighthouse]
+[27Sep2025 03:08:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 1872.500000, 68.500000, -2712.500000]
+[27Sep2025 03:09:53.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Sep2025 03:09:53.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Sep2025 03:11:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was incinerated by a dragon
+[27Sep2025 03:11:19.963] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Naxoxh7 with unique ID travelersbackpack.standard_27.09.2025-03.11.19.dat
+[27Sep2025 03:11:21.503] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Sep2025 03:11:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 1782.500000, 63.500000, -2618.500000]
+[27Sep2025 03:12:38.469] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:stray_fort/stray_fort_2 is being run through DFU (hash f7e75c3cc5c60d2e768a6c86e1b7b0e744451978096ab0f35e553aff0eea8f3f), this will cause launch time delays
+[27Sep2025 03:12:38.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_3
+[27Sep2025 03:12:38.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_1
+[27Sep2025 03:14:53.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Sep2025 03:14:53.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
