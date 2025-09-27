@@ -1,111 +1,56 @@
-[23:14:46] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[23:14:46] [INIT] Loaded plugins:
-[23:14:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:14:46] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[23:14:46] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[23:14:46] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[23:14:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.003 s
-[23:14:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
-[23:14:46] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
-[23:14:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.001 s
-[23:14:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.002 s
-[23:14:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
-[23:14:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.001 s
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.004 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.04 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.002 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.0 s
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
-[23:14:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.014 s
-[23:14:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.007 s
-[23:14:47] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
-[23:14:47] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
-[23:14:47] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.001 s
-[23:14:47] [INFO] Loaded 31/31 KubeJS server scripts in 0.115 s with 0 errors and 0 warnings
-[23:14:47] [INFO] Scripts loaded
-[23:14:47] [INFO] Initializing recipe event...
-[23:14:48] [INFO] [minecraft:block] Found 496 tags, added 18 objects, removed 0 objects
-[23:14:48] [INFO] [minecraft:item] Found 577 tags, added 5 objects, removed 0 objects
-[23:14:49] [INFO] Processing recipes...
-[23:14:49] [WARN] Failed to parse recipe 'mofus_better_end_:end_engine_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[23:14:49] [INFO] Found 2757 recipes in 121.5 ms
-[23:14:49] [INFO] Posted recipe events in 3.448 ms
-[23:14:49] [WARN] Error parsing recipe mofus_better_end_:end_engine_recipe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"redstone","pattern":["aba","bcb","ddd"],"key":{"a":{"item":"minecraft:end_stone_bricks"},"b":{"item":"mofus_better_end_:guardian_fragment"},"c":{"item":"mofus_better_end_:engine_core"},"d":{"item":"minecraft:obsidian"}},"result":{"item":"mofus_better_end_:deleted_mod_element","count":1}}: Unknown item 'mofus_better_end_:deleted_mod_element'
-[23:14:49] [INFO] Added 5 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 74.49 ms
-[23:14:51] [INFO] Server resource reload complete!
-[23:25:03] [ERROR] ! addonpack_alienevo:kubejs_scripts/ride.js#13: Error in 'ItemEvents.entityInteracted': Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.decoration.ItemFrame,string).
-[23:25:03] [ERROR] ! …rhino.EvaluatorException: Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.decoration.ItemFrame,string). (addonpack_alienevo:kubejs_scripts/ride.js#13)
-[23:25:03] [ERROR] !   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
-[23:25:03] [ERROR] !   at …rhino.Context.reportRuntimeError(Context.java:133)
-[23:25:03] [ERROR] !   at …rhino.Context.reportRuntimeError(Context.java:173)
-[23:25:03] [ERROR] !   at …rhino.Context.reportRuntimeError1(Context.java:145)
-[23:25:03] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:379)
-[23:25:03] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
-[23:25:03] [ERROR] !   at script(addonpack_alienevo:kubejs_scripts/ride.js:13)
-[23:25:03] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
-[23:25:03] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
-[23:25:03] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[23:25:03] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1374)
-[23:25:03] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
-[23:25:03] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[23:25:03] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
-[23:25:03] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[23:25:03] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
-[23:25:03] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
-[23:25:03] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy55.onEvent(Unknown Source)
-[23:25:03] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
-[23:25:03] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
-[23:25:03] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:272)
-[23:25:03] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
-[23:25:03] [ERROR] !   at …kubejs.item.KubeJSItemEventHandler.entityInteract(KubeJSItemEventHandler.java:57)
-[23:25:03] [ERROR] !   at dev.architectury.event.forge.EventHandlerImplCommon.eventPlayerInteractEvent(EventHandlerImplCommon.java:348)
-[23:25:03] [ERROR] !   at dev.architectury.event.forge.__EventHandlerImplCommon_eventPlayerInteractEvent_EntityInteract.invoke(.dynamic)
-[23:25:03] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-[23:25:03] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-[23:25:03] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-[23:25:03] [ERROR] !   at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
-[23:25:03] [ERROR] !   at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
-[23:25:03] [ERROR] !   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
-[23:25:03] [ERROR] !   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
-[23:25:03] [ERROR] !   at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
-[23:25:03] [ERROR] !   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
-[23:25:03] [ERROR] !   at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
-[23:25:03] [ERROR] !   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
-[23:25:03] [ERROR] !   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
-[23:25:03] [ERROR] !   at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
-[23:25:03] [ERROR] !   at net.minecraft.server.TickTask.run(TickTask.java:18)
-[23:25:03] [ERROR] !   at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
-[23:25:03] [ERROR] !   at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
-[23:25:03] [ERROR] !   at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
-[23:25:03] [ERROR] !   at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$256(MinecraftServer.java)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.wrapOperation$bao000$managedBlock(MinecraftServer.java:1856)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
-[23:25:03] [ERROR] !   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-[23:25:03] [ERROR] !   at java.lang.Thread.run(Thread.java:840)
+[03:47:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[03:47:45] [INIT] Loaded plugins:
+[03:47:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:47:45] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[03:47:46] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[03:47:46] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.003 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.001 s
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.002 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.008 s
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.011 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.034 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.002 s
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[03:47:46] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.004 s
+[03:47:46] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.003 s
+[03:47:46] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.001 s
+[03:47:46] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
+[03:47:46] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[03:47:46] [INFO] Loaded 31/31 KubeJS server scripts in 0.108 s with 0 errors and 0 warnings
+[03:47:46] [INFO] Scripts loaded
+[03:47:46] [INFO] Initializing recipe event...
+[03:47:48] [INFO] [minecraft:item] Found 576 tags, added 5 objects, removed 0 objects
+[03:47:48] [INFO] [minecraft:block] Found 496 tags, added 18 objects, removed 0 objects
+[03:47:49] [INFO] Processing recipes...
+[03:47:49] [WARN] Failed to parse recipe 'mofus_better_end_:end_engine_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[03:47:49] [INFO] Found 2757 recipes in 99.24 ms
+[03:47:49] [INFO] Posted recipe events in 2.587 ms
+[03:47:49] [WARN] Error parsing recipe mofus_better_end_:end_engine_recipe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"redstone","pattern":["aba","bcb","ddd"],"key":{"a":{"item":"minecraft:end_stone_bricks"},"b":{"item":"mofus_better_end_:guardian_fragment"},"c":{"item":"mofus_better_end_:engine_core"},"d":{"item":"minecraft:obsidian"}},"result":{"item":"mofus_better_end_:deleted_mod_element","count":1}}: Unknown item 'mofus_better_end_:deleted_mod_element'
+[03:47:49] [INFO] Added 5 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 61.66 ms
+[03:47:51] [INFO] Server resource reload complete!

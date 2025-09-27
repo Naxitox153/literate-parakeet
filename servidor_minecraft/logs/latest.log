@@ -1,65 +1,1190 @@
-[27Sep2025 02:45:47.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.119.103.50:60709] logged in with entity id 4569 at (790.791458805014, 63.0, -2633.458926519275)
-[27Sep2025 02:45:47.314] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
-[27Sep2025 02:45:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
-[27Sep2025 02:45:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
-[27Sep2025 02:45:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
-[27Sep2025 02:46:00.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Chompy]
-[27Sep2025 02:46:03.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has reached the goal [Postmortal]
-[27Sep2025 02:49:09.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Not Today, Thank You]
-[27Sep2025 02:50:21.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Galvanize!]
-[27Sep2025 02:50:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Sacred Circuitry]
-[27Sep2025 03:02:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Crash Course]
-[27Sep2025 03:03:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [The Core of It All]
-[27Sep2025 03:05:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [The Lighthouse]
-[27Sep2025 03:08:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 1872.500000, 68.500000, -2712.500000]
-[27Sep2025 03:11:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was incinerated by a dragon
-[27Sep2025 03:11:19.963] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Naxoxh7 with unique ID travelersbackpack.standard_27.09.2025-03.11.19.dat
-[27Sep2025 03:11:21.503] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[27Sep2025 03:11:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 1782.500000, 63.500000, -2618.500000]
-[27Sep2025 03:19:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Ol' Betsy]
-[27Sep2025 03:19:36.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Take Aim]
-[27Sep2025 03:21:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
-[27Sep2025 03:21:04.830] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Naxoxh7 with unique ID travelersbackpack.standard_27.09.2025-03.21.04.dat
-[27Sep2025 03:21:06.103] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[27Sep2025 03:21:25.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2055.500000, 61.500000, -2467.500000]
-[27Sep2025 03:21:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
-[27Sep2025 03:21:42.241] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[27Sep2025 03:21:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2056.500000, 60.500000, -2461.500000]
-[27Sep2025 03:26:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
-[27Sep2025 03:26:10.000] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Naxoxh7 with unique ID travelersbackpack.standard_27.09.2025-03.26.09.dat
-[27Sep2025 03:26:12.693] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[27Sep2025 03:26:31.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2060.500000, 62.500000, -2481.500000]
-[27Sep2025 03:27:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was turned into KFC by a dragon
-[27Sep2025 03:27:18.863] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[27Sep2025 03:27:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2051.500000, 63.500000, -2495.500000]
-[27Sep2025 03:27:54.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was incinerated by a dragon
-[27Sep2025 03:27:55.654] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[27Sep2025 03:27:59.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2074.500000, 63.500000, -2472.500000]
-[27Sep2025 03:31:12.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
-[27Sep2025 03:36:03.391] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[27Sep2025 03:36:03.396] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[27Sep2025 03:36:03.410] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[27Sep2025 03:36:03.411] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[27Sep2025 03:36:03.445] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[27Sep2025 03:36:03.446] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[27Sep2025 03:43:49.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Disconnected
-[27Sep2025 03:43:49.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
-[27Sep2025 03:44:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Sep2025 03:44:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Sep2025 03:44:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Sep2025 03:44:32.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27Sep2025 03:44:32.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grave.core:space
-[27Sep2025 03:44:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
-[27Sep2025 03:44:32.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27Sep2025 03:44:32.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27Sep2025 03:44:32.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mypowers:debate
-[27Sep2025 03:44:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mypowers:nullvoid
-[27Sep2025 03:44:32.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (space): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (debate): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (nullvoid): All chunks are saved
-[27Sep2025 03:44:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[27Sep2025 03:44:32.148] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Miniserv server stopped
+[27Sep2025 03:47:23.199] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[27Sep2025 03:47:23.203] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[27Sep2025 03:47:23.889] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Sep2025 03:47:23.935] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/literate-parakeet/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[27Sep2025 03:47:24.289] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/literate-parakeet/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[27Sep2025 03:47:24.290] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/literate-parakeet/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Sep2025 03:47:24.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/literate-parakeet/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Sep2025 03:47:24.297] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/literate-parakeet/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Sep2025 03:47:24.668] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[27Sep2025 03:47:27.152] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Sep2025 03:47:27.185] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[27Sep2025 03:47:27.188] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[27Sep2025 03:47:27.287] [main/ERROR] [mixin/]: Mixin config alienevo-common.mixins.json does not specify "minVersion" property
+[27Sep2025 03:47:27.289] [main/ERROR] [mixin/]: Mixin config alienevo.mixins.json does not specify "minVersion" property
+[27Sep2025 03:47:27.381] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[27Sep2025 03:47:27.475] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 2 override(s) found
+[27Sep2025 03:47:27.625] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.24.4+mc1.20.1: 96 options available, 0 override(s) found
+[27Sep2025 03:47:27.628] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[27Sep2025 03:47:27.667] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[27Sep2025 03:47:27.815] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Sep2025 03:47:27.818] [main/WARN] [mixin/]: Reference map 'extensibleenums.common.refmap.json' for extensibleenums.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Sep2025 03:47:27.820] [main/WARN] [mixin/]: Reference map 'extensibleenums.forge.refmap.json' for extensibleenums.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Sep2025 03:47:27.827] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 114 options available, 0 override(s) found
+[27Sep2025 03:47:27.839] [main/WARN] [mixin/]: Reference map 'hoppergadgetry.forge.refmap.json' for hoppergadgetry.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Sep2025 03:47:27.956] [main/INFO] [Puzzles Lib/]: Loading 69 mods:
+	- alexsmobs 1.22.9
+	- alienevo 1.1.0
+	- amendments 1.20-2.2.1
+	- architectury 9.2.14
+	- betterendcities 1.0.0-1.20.1
+	- betterendisland 1.20-Forge-2.0.6
+	- bettervillage 3.3.1
+	- blueprint 7.1.3
+	- brainrot 1.0.0
+	- carryon 2.1.2.7
+	- castle_in_the_sky 1.20.1
+	- cfm 7.0.0-pre36
+	- citadel 2.6.2
+	- cloth_config 11.1.136
+	- creativecore 2.12.32
+	- dungeons_arise 2.1.58-1.20.x
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- fallingtree 4.3.4
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- geckolib 4.7.4
+	- gravecore 1.2.0
+		|-- curios 5.9.1+1.20.1
+		\-- lodestone 1.20.1-1.6.2.1
+	- gravestone 1.20.1-1.0.32
+	- hopo 1.2.2
+	- hoppergadgetry 20.1.2
+		\-- extensibleenums 20.1.1
+	- iceandfire 2.1.13-1.20.1
+	- jei 15.20.0.112
+	- kubejs 2001.6.5-build.16
+	- libraryferret 4.0.0
+	- loafcats 1.2-1.20.1
+	- mcef 2.1.6-1.20.1
+	- minecraft 1.20.1
+	- modernfix 5.24.4+mc1.20.1
+	- mofus_better_end_ 1.0.0
+	- moonlight 1.20-2.16.8
+	- mowziesmobs 1.7.3
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_limesplatus_ending 1-v1.1.0c
+	- mr_serversleep 1-datapack
+	- mutantmonsters 8.0.7
+	- mypowers 1.0.5
+	- notenoughanimations 1.10.1
+		|-- transition 1.0.3
+		\-- trender 1.0.5
+	- octolib 0.5.0.1
+	- packetfixer 3.1.4
+	- palladium 4.2.8
+		|-- palladiumcore 1.0.1
+		\-- playeranimator 1.0.2-rc1+1.20
+	- particlerain 1.1.3
+	- pehkui 3.8.2+1.20.1-forge
+	- pet_cemetery 2.0.0
+	- playerrevive 2.0.31
+	- presencefootsteps 1.20.1-1.9.1-beta.1
+	- puzzleslib 8.1.33
+		\-- puzzlesaccessapi 20.1.1
+	- radium 0.12.4+git.26c9d8e
+	- relics 0.8.0.7
+	- rhino 2001.2.3-build.10
+	- rustic_engineer 1.1.3
+	- toms_storage 1.7.1
+	- toolbelt 1.20.02
+	- travelersbackpack 9.1.40
+	- webdisplays 2.0.1-1.20.1
+	- xaerominimap 25.2.10
+	- yungsapi 1.20-Forge-4.0.6
+[27Sep2025 03:47:27.980] [main/INFO] [dev.tonimatas.packetfixer.mixins.v1_19_4_forge.MixinPlugin/]: Packet Fixer forge 1.19.4-1.20.1 has been applied successfully.
+[27Sep2025 03:47:28.029] [main/WARN] [Radium Config/]: Force-disabling mixin 'ai.poi.fast_portals.PointOfInterestStorageMixin' as option 'mixin.ai.poi.fast_portals' (added by user configuration) disables it and children
+[27Sep2025 03:47:28.030] [main/WARN] [Radium Config/]: Force-disabling mixin 'ai.poi.fast_portals.PortalForcerMixin' as option 'mixin.ai.poi.fast_portals' (added by user configuration) disables it and children
+[27Sep2025 03:47:28.039] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[27Sep2025 03:47:28.787] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/StandingCanvasSignBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.StandingCanvasSignBlock)
+[27Sep2025 03:47:28.790] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/WallCanvasSignBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.WallCanvasSignBlock)
+[27Sep2025 03:47:28.876] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/supplementaries/common/entities/SlimeBallEntity (java.lang.ClassNotFoundException: net.mehvahdjukaar.supplementaries.common.entities.SlimeBallEntity)
+[27Sep2025 03:47:29.707] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[27Sep2025 03:47:29.709] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[27Sep2025 03:47:29.709] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[27Sep2025 03:47:30.368] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[27Sep2025 03:47:30.892] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[27Sep2025 03:47:31.189] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.963 s after launch)
+[27Sep2025 03:47:31.330] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[27Sep2025 03:47:31.331] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[27Sep2025 03:47:31.731] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[27Sep2025 03:47:31.731] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[27Sep2025 03:47:31.731] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[27Sep2025 03:47:33.042] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1849 milliseconds
+[27Sep2025 03:47:33.990] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zif000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[27Sep2025 03:47:35.779] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[27Sep2025 03:47:36.290] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[27Sep2025 03:47:36.350] [modloading-worker-0/INFO] [STDOUT/]: [com.gravestone.gravecore.GraveCore:init:50]: /workspaces/literate-parakeet/servidor_minecraft/config
+[27Sep2025 03:47:36.497] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[27Sep2025 03:47:36.519] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[27Sep2025 03:47:36.629] [modloading-worker-0/INFO] [STDOUT/]: [com.tiviacz.travelersbackpack.TravelersBackpack:readOldCommonConfig:178]: curiosIntegration not found in the [common.backpackSettings] section.
+[27Sep2025 03:47:37.168] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[27Sep2025 03:47:37.168] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[27Sep2025 03:47:37.238] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hoppergadgetry:main
+[27Sep2025 03:47:37.786] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[27Sep2025 03:47:37.837] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[27Sep2025 03:47:37.842] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[27Sep2025 03:47:37.851] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[27Sep2025 03:47:37.856] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[27Sep2025 03:47:37.867] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
+[27Sep2025 03:47:37.870] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[27Sep2025 03:47:37.871] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source palladium
+[27Sep2025 03:47:37.936] [modloading-worker-0/INFO] [KubeJS/]: Done in 84.22 ms
+[27Sep2025 03:47:37.937] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[27Sep2025 03:47:38.195] [modloading-worker-0/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load pack metadata
+com.google.gson.JsonSyntaxException: Missing pack_format, expected to find a Int
+	at net.minecraft.util.GsonHelper.m_13927_(GsonHelper.java:277) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:15) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:9) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_10214_(AbstractPackResources.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_5550_(AbstractPackResources.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_246334_(Pack.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_245429_(Pack.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.threetag.palladium.addonpack.forge.AddonPackManagerImpl$ModPackSource.m_7686_(AddonPackManagerImpl.java:49) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.minecraft.server.packs.repository.PackRepository.m_10526_(PackRepository.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.PackRepository.m_10506_(PackRepository.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at dev.latvian.mods.kubejs.script.ScriptManager.handler$zpo000$loadFromDirectory(ScriptManager.java:537) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.loadFromDirectory(ScriptManager.java:150) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.reload(ScriptManager.java:72) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.KubeJS.<init>(KubeJS.java:137) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.forge.KubeJSForge.<init>(KubeJSForge.java:51) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23221!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[27Sep2025 03:47:38.197] [modloading-worker-0/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack mod:minecraft
+[27Sep2025 03:47:38.243] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[27Sep2025 03:47:38.244] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[27Sep2025 03:47:38.247] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[27Sep2025 03:47:38.367] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.123 s
+[27Sep2025 03:47:38.702] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
+[27Sep2025 03:47:38.704] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.04 s
+[27Sep2025 03:47:38.711] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_run_up.js in 0.007 s
+[27Sep2025 03:47:38.712] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_run_down.js in 0.001 s
+[27Sep2025 03:47:38.724] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/wall_run.js#1: Loaded Java class 'net.minecraft.world.level.ClipContext'
+[27Sep2025 03:47:38.727] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/wall_run.js#51: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[27Sep2025 03:47:38.728] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_run.js in 0.016 s
+[27Sep2025 03:47:38.735] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_climb_small.js in 0.007 s
+[27Sep2025 03:47:38.736] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_climb_move_condition.js in 0.001 s
+[27Sep2025 03:47:38.737] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_climb_condition.js in 0.001 s
+[27Sep2025 03:47:38.745] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/wall_climb.js in 0.008 s
+[27Sep2025 03:47:38.765] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/transform.js in 0.02 s
+[27Sep2025 03:47:38.768] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/store_armor.js in 0.003 s
+[27Sep2025 03:47:38.773] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/stat_ability.js in 0.003 s
+[27Sep2025 03:47:38.781] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/spawn_particles_block.js in 0.008 s
+[27Sep2025 03:47:38.784] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/sounds.js in 0.002 s
+[27Sep2025 03:47:38.804] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/slot_transform.js in 0.02 s
+[27Sep2025 03:47:38.806] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/screen_shake.js in 0.002 s
+[27Sep2025 03:47:38.889] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/rolling_mechanics.js#117: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[27Sep2025 03:47:38.890] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/rolling_mechanics.js in 0.084 s
+[27Sep2025 03:47:38.893] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/recharge.js in 0.002 s
+[27Sep2025 03:47:38.893] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/quick_change_wheel_condition.js in 0.0 s
+[27Sep2025 03:47:38.895] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.001 s
+[27Sep2025 03:47:38.896] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/pyro_surf.js in 0.001 s
+[27Sep2025 03:47:38.900] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/projectile.js#2: Loaded Java class 'net.minecraft.world.phys.Vec3'
+[27Sep2025 03:47:38.900] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/projectile.js in 0.004 s
+[27Sep2025 03:47:38.904] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/predator_vision.js in 0.003 s
+[27Sep2025 03:47:38.905] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/playlist_cycle.js in 0.001 s
+[27Sep2025 03:47:38.911] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/ore_detect.js in 0.005 s
+[27Sep2025 03:47:38.919] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/omnitrix_timer.js in 0.007 s
+[27Sep2025 03:47:38.921] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/omnitrix_cycle_animation.js in 0.002 s
+[27Sep2025 03:47:38.926] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/omnitrix_cycle.js in 0.004 s
+[27Sep2025 03:47:38.927] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/omni_properties.js in 0.001 s
+[27Sep2025 03:47:38.928] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/motion_water.js in 0.001 s
+[27Sep2025 03:47:38.938] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/motion_to_entity.js in 0.01 s
+[27Sep2025 03:47:38.938] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/motion_dash.js in 0.0 s
+[27Sep2025 03:47:38.939] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/motion.js in 0.0 s
+[27Sep2025 03:47:38.947] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/items.js in 0.002 s
+[27Sep2025 03:47:38.948] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/is_alien.js in 0.001 s
+[27Sep2025 03:47:38.948] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/invulnerable.js in 0.0 s
+[27Sep2025 03:47:38.950] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/infinity.js in 0.001 s
+[27Sep2025 03:47:38.953] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/ice_layer.js in 0.002 s
+[27Sep2025 03:47:38.954] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/hunger_fix.js in 0.0 s
+[27Sep2025 03:47:38.961] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/ground_slam.js in 0.007 s
+[27Sep2025 03:47:38.963] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/grapple.js in 0.002 s
+[27Sep2025 03:47:38.967] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/goo_fire.js in 0.004 s
+[27Sep2025 03:47:38.975] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/glow_crystals.js in 0.005 s
+[27Sep2025 03:47:38.976] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/glide.js in 0.001 s
+[27Sep2025 03:47:38.978] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/galvan_blueprints.js in 0.002 s
+[27Sep2025 03:47:38.982] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/freeze_immunity.js in 0.001 s
+[27Sep2025 03:47:38.983] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/flatten.js#1: Loaded Java class 'virtuoel.pehkui.api.ScaleTypes'
+[27Sep2025 03:47:38.984] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/flatten.js in 0.002 s
+[27Sep2025 03:47:38.984] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/fire_immunity.js in 0.0 s
+[27Sep2025 03:47:38.990] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/fire_absorb.js in 0.005 s
+[27Sep2025 03:47:38.991] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/explosion.js in 0.0 s
+[27Sep2025 03:47:38.993] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/entity_damage.js in 0.001 s
+[27Sep2025 03:47:38.994] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/draganoid.js in 0.001 s
+[27Sep2025 03:47:38.996] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/directional_damage.js in 0.001 s
+[27Sep2025 03:47:39.002] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/diamond_creation.js in 0.006 s
+[27Sep2025 03:47:39.004] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/detransform.js in 0.002 s
+[27Sep2025 03:47:39.012] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/decouple.js in 0.008 s
+[27Sep2025 03:47:39.014] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/damage_effect.js in 0.001 s
+[27Sep2025 03:47:39.015] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/cycle_sounds.js in 0.001 s
+[27Sep2025 03:47:39.016] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/current_alien_nickname_condition.js in 0.001 s
+[27Sep2025 03:47:39.025] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/crystal_pillar.js in 0.008 s
+[27Sep2025 03:47:39.032] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/core_removal.js in 0.006 s
+[27Sep2025 03:47:39.036] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/color_modules.js in 0.003 s
+[27Sep2025 03:47:39.042] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/codes.js in 0.005 s
+[27Sep2025 03:47:39.043] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/charge_leap.js in 0.001 s
+[27Sep2025 03:47:39.046] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/bounce.js in 0.002 s
+[27Sep2025 03:47:39.052] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/blocks.js#1: Loaded Java class 'net.minecraft.nbt.CompoundTag'
+[27Sep2025 03:47:39.053] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/blocks.js in 0.007 s
+[27Sep2025 03:47:39.055] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/block_wave.js in 0.002 s
+[27Sep2025 03:47:39.056] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.001 s
+[27Sep2025 03:47:39.059] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/astro_powers.js in 0.003 s
+[27Sep2025 03:47:39.060] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/alienevo_watch_condition.js in 0.001 s
+[27Sep2025 03:47:39.060] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/alienevo_color_condition.js in 0.0 s
+[27Sep2025 03:47:39.067] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/alien_codex.js#1: Loaded Java class 'net.minecraft.network.chat.Component'
+[27Sep2025 03:47:39.070] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_alienevo:kubejs_scripts/alien_codex.js in 0.01 s
+[27Sep2025 03:47:39.071] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_afomni:kubejs_scripts/new_ice_block.js in 0.001 s
+[27Sep2025 03:47:39.071] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_afomni:kubejs_scripts/leap_vax.js in 0.0 s
+[27Sep2025 03:47:39.072] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_afomni:kubejs_scripts/is_mainhand.js in 0.001 s
+[27Sep2025 03:47:39.072] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_afomni:kubejs_scripts/freezing_effect.js in 0.0 s
+[27Sep2025 03:47:39.073] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_afomni:kubejs_scripts/chroma_leap.js in 0.001 s
+[27Sep2025 03:47:39.073] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_afomni:kubejs_scripts/aoe_damage.js in 0.0 s
+[27Sep2025 03:47:39.074] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_mypowers:kubejs_scripts/teleport.js in 0.0 s
+[27Sep2025 03:47:39.074] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_mypowers:kubejs_scripts/telekinesis.js in 0.0 s
+[27Sep2025 03:47:39.075] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_soil.js in 0.0 s
+[27Sep2025 03:47:39.075] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_mypowers:kubejs_scripts/alien_codex.js in 0.0 s
+[27Sep2025 03:47:39.085] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/telekinesis.js#3: Loaded Java class 'net.minecraft.world.entity.projectile.ProjectileUtil'
+[27Sep2025 03:47:39.086] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/telekinesis.js#4: Loaded Java class 'net.minecraft.core.registries.Registries'
+[27Sep2025 03:47:39.086] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/telekinesis.js#5: Loaded Java class 'net.minecraft.tags.TagKey'
+[27Sep2025 03:47:39.087] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/telekinesis.js in 0.012 s
+[27Sep2025 03:47:39.089] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/store_armour.js in 0.001 s
+[27Sep2025 03:47:39.091] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/stone_index.js in 0.002 s
+[27Sep2025 03:47:39.092] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/stone_detection.js in 0.001 s
+[27Sep2025 03:47:39.092] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/sonic_deafening.js in 0.0 s
+[27Sep2025 03:47:39.093] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/shock_effect.js in 0.001 s
+[27Sep2025 03:47:39.093] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/power_selected.js in 0.0 s
+[27Sep2025 03:47:39.094] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/persistent_data_condition.js in 0.001 s
+[27Sep2025 03:47:39.094] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/null_persistent_data_condition.js in 0.0 s
+[27Sep2025 03:47:39.095] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/month_condition.js in 0.001 s
+[27Sep2025 03:47:39.096] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/knockback.js in 0.001 s
+[27Sep2025 03:47:39.097] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/key_condition.js in 0.001 s
+[27Sep2025 03:47:39.099] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/items.js in 0.002 s
+[27Sep2025 03:47:39.100] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/get_energy_condition.js#2: Loaded Java class 'net.threetag.palladium.compat.curiostinkets.CuriosTrinketsUtil'
+[27Sep2025 03:47:39.101] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/get_energy_condition.js#3: Loaded Java class 'net.threetag.palladium.energy.EnergyHelper'
+[27Sep2025 03:47:39.102] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/get_energy_condition.js in 0.002 s
+[27Sep2025 03:47:39.102] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/freeze_effect.js in 0.0 s
+[27Sep2025 03:47:39.104] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/effect_condition.js#6: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[27Sep2025 03:47:39.104] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/effect_condition.js in 0.002 s
+[27Sep2025 03:47:39.105] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/dynamic_pehkui_scale.js#1: Loaded Java class 'net.threetag.palladium.util.SizeUtil'
+[27Sep2025 03:47:39.106] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/dynamic_pehkui_scale.js in 0.002 s
+[27Sep2025 03:47:39.106] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/drain_per_tick.js in 0.0 s
+[27Sep2025 03:47:39.107] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/drain_accessory_energy.js in 0.0 s
+[27Sep2025 03:47:39.108] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/does_accessory_have_energy.js in 0.001 s
+[27Sep2025 03:47:39.109] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/does_accessory_exist.js in 0.001 s
+[27Sep2025 03:47:39.109] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_conditions/uuid_condition.js in 0.0 s
+[27Sep2025 03:47:39.109] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_conditions/main_hand_condition.js in 0.0 s
+[27Sep2025 03:47:39.112] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/snazzier_attribute_ability.js in 0.002 s
+[27Sep2025 03:47:39.114] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/setppbyscore.js in 0.002 s
+[27Sep2025 03:47:39.115] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/projectile_script.js in 0.001 s
+[27Sep2025 03:47:39.116] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/no_burn.js in 0.0 s
+[27Sep2025 03:47:39.117] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/movement.js in 0.0 s
+[27Sep2025 03:47:39.117] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/explosion.js in 0.0 s
+[27Sep2025 03:47:39.119] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/charged_knockback.js in 0.001 s
+[27Sep2025 03:47:39.121] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/aoe_knockback.js in 0.001 s
+[27Sep2025 03:47:39.121] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/depricated_abilities/aoe_damage.js in 0.0 s
+[27Sep2025 03:47:39.122] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/date_condition.js in 0.0 s
+[27Sep2025 03:47:39.123] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/compare_accessory_energy.js in 0.001 s
+[27Sep2025 03:47:39.124] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.001 s
+[27Sep2025 03:47:39.125] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/burning_effect.js in 0.0 s
+[27Sep2025 03:47:39.127] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/blocks.js in 0.002 s
+[27Sep2025 03:47:39.134] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 118/118 KubeJS startup scripts in 0.76 s with 0 errors and 0 warnings
+[27Sep2025 03:47:39.202] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[27Sep2025 03:47:39.203] [modloading-worker-0/INFO] [STDERR/]: [dev.latvian.mods.rhino.JavaMembers:getDeclaredMethodsSafe:836]: [Rhino] Failed to get declared methods for net.threetag.palladium.util.icon.ItemIcon: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[27Sep2025 03:47:39.212] [modloading-worker-0/ERROR] [net.threetag.palladium.Palladium/]: Failed to register ability property "%s", type "%s" is not supported
+[27Sep2025 03:47:39.216] [modloading-worker-0/ERROR] [net.threetag.palladium.Palladium/]: Failed to register ability property "%s", type "%s" is not supported
+[27Sep2025 03:47:39.217] [modloading-worker-0/ERROR] [net.threetag.palladium.Palladium/]: Failed to register ability property "%s", type "%s" is not supported
+[27Sep2025 03:47:39.231] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/motion_to_entity.js#6: Loaded Java class 'net.minecraft.world.phys.HitResult'
+[27Sep2025 03:47:39.239] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/motion_to_entity.js#7: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[27Sep2025 03:47:39.245] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/motion_to_entity.js#8: Loaded Java class 'net.minecraft.world.entity.boss.enderdragon.EndCrystal'
+[27Sep2025 03:47:39.261] [modloading-worker-0/ERROR] [net.threetag.palladium.Palladium/]: Failed to register ability property "%s", type "%s" is not supported
+[27Sep2025 03:47:39.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[27Sep2025 03:47:39.350] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[27Sep2025 03:47:39.375] [main/INFO] [net.threetag.palladium.Palladium/]: Starting addonpack initialisation...
+[27Sep2025 03:47:39.384] [main/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load pack metadata
+com.google.gson.JsonSyntaxException: Missing pack_format, expected to find a Int
+	at net.minecraft.util.GsonHelper.m_13927_(GsonHelper.java:277) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:15) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:9) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_10214_(AbstractPackResources.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_5550_(AbstractPackResources.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_246334_(Pack.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_245429_(Pack.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.threetag.palladium.addonpack.forge.AddonPackManagerImpl$ModPackSource.m_7686_(AddonPackManagerImpl.java:49) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.minecraft.server.packs.repository.PackRepository.m_10526_(PackRepository.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.PackRepository.m_10506_(PackRepository.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.threetag.palladium.addonpack.AddonPackManager.beginLoading(AddonPackManager.java:136) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.addonpack.AddonPackManager.startLoading(AddonPackManager.java:54) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$makeRunnable$2(DeferredWorkQueue.java:81) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.makeRunnable(DeferredWorkQueue.java:76) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$runTasks$0(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at java.util.concurrent.ConcurrentLinkedDeque.forEach(ConcurrentLinkedDeque.java:1650) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.runTasks(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.core.ParallelTransition.lambda$finalActivityGenerator$2(ParallelTransition.java:35) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraftforge.fml.ModWorkManager$SyncExecutor.driveOne(ModWorkManager.java:43) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.ModWorkManager$DrivenExecutor.drive(ModWorkManager.java:28) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:224) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Sep2025 03:47:39.388] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack mod:minecraft
+[27Sep2025 03:47:39.396] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:alexsmobs as it's not been marked as an addonpack
+[27Sep2025 03:47:39.397] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.403] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:amendments as it's not been marked as an addonpack
+[27Sep2025 03:47:39.404] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.404] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:architectury as it's not been marked as an addonpack
+[27Sep2025 03:47:39.404] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.405] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betterendcities as it's not been marked as an addonpack
+[27Sep2025 03:47:39.405] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.405] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betterendisland as it's not been marked as an addonpack
+[27Sep2025 03:47:39.405] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.406] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:bettervillage as it's not been marked as an addonpack
+[27Sep2025 03:47:39.406] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.406] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:blueprint as it's not been marked as an addonpack
+[27Sep2025 03:47:39.406] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.407] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:brainrot as it's not been marked as an addonpack
+[27Sep2025 03:47:39.407] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.407] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:carryon as it's not been marked as an addonpack
+[27Sep2025 03:47:39.407] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.408] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:castle_in_the_sky as it's not been marked as an addonpack
+[27Sep2025 03:47:39.408] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.408] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cfm as it's not been marked as an addonpack
+[27Sep2025 03:47:39.409] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.409] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:citadel as it's not been marked as an addonpack
+[27Sep2025 03:47:39.409] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.410] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cloth_config as it's not been marked as an addonpack
+[27Sep2025 03:47:39.410] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.410] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:creativecore as it's not been marked as an addonpack
+[27Sep2025 03:47:39.411] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.411] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:curios as it's not been marked as an addonpack
+[27Sep2025 03:47:39.411] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.411] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:dungeons_arise as it's not been marked as an addonpack
+[27Sep2025 03:47:39.412] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.412] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:embeddium as it's not been marked as an addonpack
+[27Sep2025 03:47:39.412] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.413] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:extensibleenums as it's not been marked as an addonpack
+[27Sep2025 03:47:39.413] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.413] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:fallingtree as it's not been marked as an addonpack
+[27Sep2025 03:47:39.414] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.414] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:ferritecore as it's not been marked as an addonpack
+[27Sep2025 03:47:39.415] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.415] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:forge as it's not been marked as an addonpack
+[27Sep2025 03:47:39.415] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.415] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:geckolib as it's not been marked as an addonpack
+[27Sep2025 03:47:39.416] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.416] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:gravecore as it's not been marked as an addonpack
+[27Sep2025 03:47:39.416] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.417] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:gravestone as it's not been marked as an addonpack
+[27Sep2025 03:47:39.417] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.417] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:hopo as it's not been marked as an addonpack
+[27Sep2025 03:47:39.417] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.418] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:hoppergadgetry as it's not been marked as an addonpack
+[27Sep2025 03:47:39.418] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.418] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:iceandfire as it's not been marked as an addonpack
+[27Sep2025 03:47:39.419] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.419] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:jei as it's not been marked as an addonpack
+[27Sep2025 03:47:39.419] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.420] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:kubejs as it's not been marked as an addonpack
+[27Sep2025 03:47:39.420] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.420] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:libraryferret as it's not been marked as an addonpack
+[27Sep2025 03:47:39.420] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.421] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:loafcats as it's not been marked as an addonpack
+[27Sep2025 03:47:39.421] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.421] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:lodestone as it's not been marked as an addonpack
+[27Sep2025 03:47:39.422] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.422] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mcef as it's not been marked as an addonpack
+[27Sep2025 03:47:39.422] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.422] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:modernfix as it's not been marked as an addonpack
+[27Sep2025 03:47:39.422] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.423] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mofus_better_end_ as it's not been marked as an addonpack
+[27Sep2025 03:47:39.423] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.423] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:moonlight as it's not been marked as an addonpack
+[27Sep2025 03:47:39.424] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.424] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mowziesmobs as it's not been marked as an addonpack
+[27Sep2025 03:47:39.424] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.425] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mr_dungeons_andtaverns as it's not been marked as an addonpack
+[27Sep2025 03:47:39.425] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.425] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mr_limesplatus_ending as it's not been marked as an addonpack
+[27Sep2025 03:47:39.426] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.426] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mr_serversleep as it's not been marked as an addonpack
+[27Sep2025 03:47:39.426] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.427] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mutantmonsters as it's not been marked as an addonpack
+[27Sep2025 03:47:39.427] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.427] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:notenoughanimations as it's not been marked as an addonpack
+[27Sep2025 03:47:39.427] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.428] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:octolib as it's not been marked as an addonpack
+[27Sep2025 03:47:39.428] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.428] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:packetfixer as it's not been marked as an addonpack
+[27Sep2025 03:47:39.429] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.429] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:palladium as it's not been marked as an addonpack
+[27Sep2025 03:47:39.429] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.430] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:palladiumcore as it's not been marked as an addonpack
+[27Sep2025 03:47:39.430] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.430] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:particlerain as it's not been marked as an addonpack
+[27Sep2025 03:47:39.430] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.431] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:pehkui as it's not been marked as an addonpack
+[27Sep2025 03:47:39.431] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.431] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:pet_cemetery as it's not been marked as an addonpack
+[27Sep2025 03:47:39.431] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.433] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:playeranimator as it's not been marked as an addonpack
+[27Sep2025 03:47:39.433] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.433] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:playerrevive as it's not been marked as an addonpack
+[27Sep2025 03:47:39.434] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.434] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:presencefootsteps as it's not been marked as an addonpack
+[27Sep2025 03:47:39.434] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.435] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:puzzlesaccessapi as it's not been marked as an addonpack
+[27Sep2025 03:47:39.436] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.436] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:puzzleslib as it's not been marked as an addonpack
+[27Sep2025 03:47:39.437] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.437] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:radium as it's not been marked as an addonpack
+[27Sep2025 03:47:39.437] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.437] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:relics as it's not been marked as an addonpack
+[27Sep2025 03:47:39.438] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.438] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:rhino as it's not been marked as an addonpack
+[27Sep2025 03:47:39.438] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.438] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:rubidium as it's not been marked as an addonpack
+[27Sep2025 03:47:39.439] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.440] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:rustic_engineer as it's not been marked as an addonpack
+[27Sep2025 03:47:39.440] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.440] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:toms_storage as it's not been marked as an addonpack
+[27Sep2025 03:47:39.440] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.441] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:toolbelt as it's not been marked as an addonpack
+[27Sep2025 03:47:39.441] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.441] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:transition as it's not been marked as an addonpack
+[27Sep2025 03:47:39.441] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.442] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:travelersbackpack as it's not been marked as an addonpack
+[27Sep2025 03:47:39.442] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.442] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:trender as it's not been marked as an addonpack
+[27Sep2025 03:47:39.442] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.443] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:webdisplays as it's not been marked as an addonpack
+[27Sep2025 03:47:39.443] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.443] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:xaerominimap as it's not been marked as an addonpack
+[27Sep2025 03:47:39.444] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.444] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:yungsapi as it's not been marked as an addonpack
+[27Sep2025 03:47:39.444] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[27Sep2025 03:47:39.448] [main/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: alexsmobs-1.22.9.jar, AlienEvo-1.1.0-forge.jar, amendments-1.20-2.2.1.jar, architectury-9.2.14-forge.jar, betterendcities-1.0.0-1.20.1.jar, YungsBetterEndIsland-1.20-Forge-2.0.6.jar, bettervillage-forge-1.20.1-3.3.1-all.jar, blueprint-1.20.1-7.1.3.jar, brainrot-5.0.jar, carryon-forge-1.20.1-2.1.2.7.jar, castle_in_the_sky-1.20.1-0.6.0.jar, cfm-forge-1.20.1-7.0.0-pre36.jar, citadel-2.6.2-1.20.1.jar, cloth-config-11.1.136-forge.jar, CreativeCore_FORGE_v2.12.32_mc1.20.1.jar, curios-forge-5.9.1+1.20.1.jar, DungeonsArise-1.20.x-2.1.58-release.jar, embeddium-0.3.31+mc1.20.1.jar, extensibleenums-forge-20.1.1.jar, FallingTree-1.20.1-4.3.4.jar, ferritecore-6.0.1-forge.jar, forge-1.20.1-47.3.7-universal.jar, geckolib-forge-1.20.1-4.7.4.jar, gravecore-1.2.0-forge.jar, gravestone-forge-1.20.1-1.0.32.jar, HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2c.jar, HopperGadgetry-v20.1.2-1.20.1-Forge.jar, iceandfire-2.1.13-1.20.1-beta-5.jar, jei-1.20.1-forge-15.20.0.112.jar, kubejs-forge-2001.6.5-build.16.jar, libraryferret-forge-1.20.1-4.0.0.jar, loafcats-1.2-1.20.1.jar, lodestone-1.20.1-1.6.2.1.jar, mcef-forge-2.1.6-1.20.1.jar, modernfix-forge-5.24.4+mc1.20.1.jar, mofus_broken_constellation-0.9.0-forge-1.20.1.jar, moonlight-1.20-2.16.8-forge.jar, mowziesmobs-1.7.3.jar, dungeons-and-taverns-3.0.3.f[Forge].jar, tru.e-ending-v1.1.0c.jar, serversleep-mod.jar, MutantMonsters-v8.0.7-1.20.1-Forge.jar, celestialsapien-1.0.5 (quickfix).jar, notenoughanimations-forge-1.10.1-mc1.20.1.jar, OctoLib-FORGE-0.5.0.1+1.20.1.jar, packetfixer-3.1.4-1.18-1.20.4-merged.jar, palladium-4.2.8+1.20.1-forge.jar, palladiumcore-forge-1.0.1+1.20.1-forge.jar, Pretty Rain-1.20.1-Forge-1.1.3.jar, Pehkui-3.8.2+1.20.1-forge.jar, pet_cemetery-1.20.1-2.0.0.jar, player-animation-lib-forge-1.0.2-rc1+1.20.jar, PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar, PresenceFootsteps-1.20.1-1.9.1-beta.1.jar, puzzlesaccessapi-forge-20.1.1.jar, PuzzlesLib-v8.1.33-1.20.1-Forge.jar, radium-mc1.20.1-0.12.4+git.26c9d8e.jar, relics-1.20.1-0.8.0.7.jar, rhino-forge-2001.2.3-build.10.jar, embeddium-0.3.31+mc1.20.1.jar, rustic_engineer-1.1.3-forge-1.20.1.jar, toms_storage-1.20-1.7.1.jar, ToolBelt-1.20.1-1.20.02.jar, TRansition-1.0.3-1.20.1-forge-SNAPSHOT.jar, travelersbackpack-forge-1.20.1-9.1.40.jar, TRender-1.0.5-1.20.1-forge-SNAPSHOT.jar, webdisplays-2.0.2-1.20.1.jar, Xaeros_Minimap_25.2.10_Forge_1.20.jar, YungsApi-1.20-Forge-4.0.6.jar
+[27Sep2025 03:47:39.649] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 3 addonpack creative_mode_tab
+[27Sep2025 03:47:39.650] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 2 addonpack armor materials
+[27Sep2025 03:47:39.651] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 1 addonpack tool tiers
+[27Sep2025 03:47:39.654] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 14 addonpack block
+[27Sep2025 03:47:39.659] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 109 addonpack item
+[27Sep2025 03:47:39.659] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 0 addonpack suit_set
+[27Sep2025 03:47:39.660] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 29 addonpack particle_type
+[27Sep2025 03:47:39.660] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 1 addonpack point_of_interest_type
+[27Sep2025 03:47:39.661] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 1 addonpack villager_profession
+[27Sep2025 03:47:39.663] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 1 addonpack accessory slots
+[27Sep2025 03:47:39.663] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 3 addonpack accessories
+[27Sep2025 03:47:39.663] [main/INFO] [net.threetag.palladium.Palladium/]: Finished addonpack initialisation!
+[27Sep2025 03:47:42.063] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[27Sep2025 03:47:43.238] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[27Sep2025 03:47:43.340] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[27Sep2025 03:47:43.360] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[27Sep2025 03:47:43.550] [modloading-worker-0/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO FROM PREINIT
+[27Sep2025 03:47:43.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[27Sep2025 03:47:43.633] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[27Sep2025 03:47:43.638] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[27Sep2025 03:47:43.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[27Sep2025 03:47:43.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[27Sep2025 03:47:43.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[27Sep2025 03:47:43.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [palladium] Starting version check at https://squirrelcontrol.threetag.net/api/forge_updates/threetag-palladium
+[27Sep2025 03:47:44.029] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[27Sep2025 03:47:44.029] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[27Sep2025 03:47:44.030] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[27Sep2025 03:47:44.030] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[27Sep2025 03:47:44.076] [main/INFO] [Moonlight/]: Initialized color sets in 24ms
+[27Sep2025 03:47:44.093] [main/INFO] [team.lodestar.lodestone.LodestoneLib/]: Registering world event types...
+[27Sep2025 03:47:44.202] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[27Sep2025 03:47:44.226] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[27Sep2025 03:47:44.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [palladium] Found status: OUTDATED Current: 4.2.8 Target: 4.2.9
+[27Sep2025 03:47:44.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[27Sep2025 03:47:44.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.40 Target: null
+[27Sep2025 03:47:44.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[27Sep2025 03:47:44.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[27Sep2025 03:47:44.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Sep2025 03:47:44.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[27Sep2025 03:47:44.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [extensibleenums] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/extensibleenums.json
+[27Sep2025 03:47:44.518] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_alienevo:kubejs_scripts/glow_crystals.js#3: Loaded Java class 'dev.latvian.mods.kubejs.item.custom.BasicItemJS$Builder'
+[27Sep2025 03:47:44.535] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[27Sep2025 03:47:44.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hoppergadgetry] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hoppergadgetry.json
+[27Sep2025 03:47:44.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hoppergadgetry] Found status: UP_TO_DATE Current: 20.1.2 Target: null
+[27Sep2025 03:47:44.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_serversleep] Starting version check at https://api.modrinth.com/updates/Cw8IlnGM/forge_updates.json
+[27Sep2025 03:47:44.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_serversleep] Found status: AHEAD Current: 1-datapack Target: null
+[27Sep2025 03:47:44.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[27Sep2025 03:47:45.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.32 Target: 1.20.1-1.0.33
+[27Sep2025 03:47:45.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[27Sep2025 03:47:45.158] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Sep2025 03:47:45.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[27Sep2025 03:47:45.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[27Sep2025 03:47:45.265] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[27Sep2025 03:47:45.319] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+boiled_reimagined (version 1.0.12 -> MISSING)
+the_knocker (version 1.5.0 -> MISSING)
+Things may not work well.
+[27Sep2025 03:47:45.335] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23220!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[27Sep2025 03:47:45.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[27Sep2025 03:47:45.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[27Sep2025 03:47:45.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[27Sep2025 03:47:45.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
+[27Sep2025 03:47:45.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[27Sep2025 03:47:45.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.1 Target: 1.7.1
+[27Sep2025 03:47:45.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[27Sep2025 03:47:45.444] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	the_knocker:bridge: 1826
+
+[27Sep2025 03:47:45.445] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	boiled_reimagined:the_boiled_one: 413
+	boiled_reimagined:the_boiled_one_watching: 414
+	the_knocker:knocker: 416
+	the_knocker:knockerdeadanimal: 419
+	the_knocker:knockerstalk: 417
+	the_knocker:knockerstalklooked: 418
+	the_knocker:knockerswim: 420
+
+[27Sep2025 03:47:45.445] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	boiled_reimagined:the_boiled_one_spawn_egg: 3215
+	the_knocker:bridge: 3222
+	the_knocker:knife: 3220
+	the_knocker:knocker_spawn_egg: 3219
+	the_knocker:knockerswim_spawn_egg: 3221
+
+[27Sep2025 03:47:45.446] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	boiled_reimagined:paralysis: 71
+
+[27Sep2025 03:47:45.446] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	boiled_reimagined:entity.tbo.attack: 2114
+	boiled_reimagined:entity.tbo.despawn: 2112
+	boiled_reimagined:entity.tbo.jumpscare: 2113
+	boiled_reimagined:entity.tbo.paralyse: 2117
+	boiled_reimagined:entity.tbo.scare: 2116
+	boiled_reimagined:entity.tbo.spawn: 2111
+	boiled_reimagined:entity.tbo.wake: 2118
+	boiled_reimagined:entity.tbo.watch: 2115
+	the_knocker:breath: 2127
+	the_knocker:door_knocking_1: 2119
+	the_knocker:door_knocking_2: 2120
+	the_knocker:door_knocking_3: 2122
+	the_knocker:door_knocking_4: 2121
+	the_knocker:jumpscare: 2128
+	the_knocker:knife_sharpening_1: 2129
+	the_knocker:riser: 2131
+	the_knocker:sharpening_knife_2: 2130
+	the_knocker:spawn_1: 2123
+	the_knocker:spawn_2: 2124
+	the_knocker:window_knock_1: 2125
+	the_knocker:window_knock_2: 2126
+
+[27Sep2025 03:47:45.448] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 35 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[27Sep2025 03:47:45.448] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    boiled_reimagined:entity.tbo.attack
+    boiled_reimagined:entity.tbo.despawn
+    boiled_reimagined:entity.tbo.jumpscare
+    boiled_reimagined:entity.tbo.paralyse
+    boiled_reimagined:entity.tbo.scare
+    boiled_reimagined:entity.tbo.spawn
+    boiled_reimagined:entity.tbo.wake
+    boiled_reimagined:entity.tbo.watch
+    the_knocker:breath
+    the_knocker:door_knocking_1
+    the_knocker:door_knocking_2
+    the_knocker:door_knocking_3
+    the_knocker:door_knocking_4
+    the_knocker:jumpscare
+    the_knocker:knife_sharpening_1
+    the_knocker:riser
+    the_knocker:sharpening_knife_2
+    the_knocker:spawn_1
+    the_knocker:spawn_2
+    the_knocker:window_knock_1
+    the_knocker:window_knock_2
+
+Missing minecraft:item:
+    boiled_reimagined:the_boiled_one_spawn_egg
+    the_knocker:bridge
+    the_knocker:knife
+    the_knocker:knocker_spawn_egg
+    the_knocker:knockerswim_spawn_egg
+
+Missing minecraft:block:
+    the_knocker:bridge
+
+Missing minecraft:mob_effect:
+    boiled_reimagined:paralysis
+
+Missing minecraft:entity_type:
+    boiled_reimagined:the_boiled_one
+    boiled_reimagined:the_boiled_one_watching
+    the_knocker:knocker
+    the_knocker:knockerdeadanimal
+    the_knocker:knockerstalk
+    the_knocker:knockerstalklooked
+    the_knocker:knockerswim
+
+
+[27Sep2025 03:47:45.449] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[27Sep2025 03:47:45.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[27Sep2025 03:47:45.618] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/literate-parakeet/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
+[27Sep2025 03:47:45.618] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/literate-parakeet/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
+[27Sep2025 03:47:45.619] [main/ERROR] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: File /addon/.mcassetsroot does not exist in classpath
+[27Sep2025 03:47:45.672] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:boiled_reimagined
+[27Sep2025 03:47:45.672] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:the_knocker
+[27Sep2025 03:47:45.691] [main/INFO] [Moonlight/]: Starting runtime resource generation for pack type SERVER_DATA with generators from mods []: []
+[27Sep2025 03:47:45.691] [main/INFO] [Moonlight/]: Finished runtime resources generation for 0 packs in a total of 0 ms
+[27Sep2025 03:47:45.708] [main/INFO] [Moonlight/]: Starting runtime resource generation for pack type SERVER_DATA with generators from mods []: []
+[27Sep2025 03:47:45.708] [main/INFO] [Moonlight/]: Finished runtime resources generation for 0 packs in a total of 0 ms
+[27Sep2025 03:47:45.712] [main/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load pack metadata
+com.google.gson.JsonSyntaxException: Missing pack_format, expected to find a Int
+	at net.minecraft.util.GsonHelper.m_13927_(GsonHelper.java:277) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:15) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:9) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_10214_(AbstractPackResources.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_5550_(AbstractPackResources.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_246334_(Pack.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_245429_(Pack.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.threetag.palladium.addonpack.forge.AddonPackManagerImpl$ModPackSource.m_7686_(AddonPackManagerImpl.java:49) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.minecraft.server.packs.repository.PackRepository.m_10526_(PackRepository.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.repository.PackRepository.m_10506_(PackRepository.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at dev.latvian.mods.kubejs.script.ScriptManager.handler$zpo000$loadFromDirectory(ScriptManager.java:537) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.loadFromDirectory(ScriptManager.java:150) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.reload(ScriptManager.java:72) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.server.ServerScriptManager.wrapResourceManager(ServerScriptManager.java:85) ~[kubejs-forge-2001.6.5-build.16.jar%23186!/:2001.6.5-build.16]
+	at net.minecraft.server.WorldLoader$PackConfig.localvar$bld000$injectKubeJSPacks(WorldLoader.java:1015) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.WorldLoader$PackConfig.m_214399_(WorldLoader.java:80) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.WorldLoader.m_214362_(WorldLoader.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.lambda$main$2(Main.java:167) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:777) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Sep2025 03:47:45.714] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack mod:minecraft
+[27Sep2025 03:47:46.655] [main/INFO] [KubeJS Server/]: example.js#5: Hello, World! (Loaded server scripts)
+[27Sep2025 03:47:46.656] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:example.js in 0.001 s
+[27Sep2025 03:47:46.659] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.003 s
+[27Sep2025 03:47:46.662] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[27Sep2025 03:47:46.663] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.001 s
+[27Sep2025 03:47:46.663] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
+[27Sep2025 03:47:46.665] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.001 s
+[27Sep2025 03:47:46.666] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[27Sep2025 03:47:46.667] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.002 s
+[27Sep2025 03:47:46.668] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[27Sep2025 03:47:46.670] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[27Sep2025 03:47:46.678] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.008 s
+[27Sep2025 03:47:46.684] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[27Sep2025 03:47:46.686] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[27Sep2025 03:47:46.688] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[27Sep2025 03:47:46.689] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[27Sep2025 03:47:46.689] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[27Sep2025 03:47:46.689] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.011 s
+[27Sep2025 03:47:46.690] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.001 s
+[27Sep2025 03:47:46.691] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[27Sep2025 03:47:46.691] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
+[27Sep2025 03:47:46.693] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
+[27Sep2025 03:47:46.693] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
+[27Sep2025 03:47:46.694] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.0 s
+[27Sep2025 03:47:46.695] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.0 s
+[27Sep2025 03:47:46.730] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.034 s
+[27Sep2025 03:47:46.732] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.002 s
+[27Sep2025 03:47:46.735] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[27Sep2025 03:47:46.735] [main/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[27Sep2025 03:47:46.736] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.004 s
+[27Sep2025 03:47:46.736] [main/INFO] [KubeJS Server/]: Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[27Sep2025 03:47:46.738] [main/INFO] [KubeJS Server/]: Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
+[27Sep2025 03:47:46.741] [main/INFO] [KubeJS Server/]: Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.003 s
+[27Sep2025 03:47:46.741] [main/INFO] [KubeJS Server/]: Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
+[27Sep2025 03:47:46.742] [main/INFO] [KubeJS Server/]: Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[27Sep2025 03:47:46.743] [main/INFO] [KubeJS Server/]: Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.001 s
+[27Sep2025 03:47:46.744] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[27Sep2025 03:47:46.744] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[27Sep2025 03:47:46.745] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
+[27Sep2025 03:47:46.745] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[27Sep2025 03:47:46.746] [main/INFO] [KubeJS Server/]: Loaded 31/31 KubeJS server scripts in 0.108 s with 0 errors and 0 warnings
+[27Sep2025 03:47:46.746] [main/INFO] [KubeJS Server/]: Scripts loaded
+[27Sep2025 03:47:46.758] [main/INFO] [KubeJS Server/]: Initializing recipe event...
+[27Sep2025 03:47:46.765] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[27Sep2025 03:47:47.102] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[27Sep2025 03:47:48.278] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[27Sep2025 03:47:48.307] [Worker-Main-1/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_215924_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagEntryMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[27Sep2025 03:47:48.338] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alienevo:evoastra as it is missing following references: ad_astra:oxygen (from AlienEvo-1.1.0-forge.jar)
+[27Sep2025 03:47:48.430] [Worker-Main-2/INFO] [KubeJS Server/]: [minecraft:item] Found 576 tags, added 5 objects, removed 0 objects
+[27Sep2025 03:47:48.460] [Worker-Main-3/INFO] [KubeJS Server/]: [minecraft:block] Found 496 tags, added 18 objects, removed 0 objects
+[27Sep2025 03:47:48.467] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:farmland as it is missing following references: mypowers:nullvoid_soil_dry (from celestialsapien-1.0.5 (quickfix).jar), 
+	mypowers:nullvoid_soil_wet (from celestialsapien-1.0.5 (quickfix).jar)
+[27Sep2025 03:47:49.084] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mypowers:azmuth_ship_loot
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'alienevo:blueprint'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[27Sep2025 03:47:49.185] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 0 loot table modifications
+[27Sep2025 03:47:49.185] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[27Sep2025 03:47:49.261] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[27Sep2025 03:47:49.262] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[27Sep2025 03:47:49.262] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[27Sep2025 03:47:49.267] [main/INFO] [KubeJS Server/]: Processing recipes...
+[27Sep2025 03:47:49.357] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'mofus_better_end_:end_engine_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[27Sep2025 03:47:49.369] [main/INFO] [KubeJS Server/]: Found 2757 recipes in 99.24 ms
+[27Sep2025 03:47:49.371] [main/INFO] [KubeJS Server/]: Posted recipe events in 2.587 ms
+[27Sep2025 03:47:49.426] [KubeJS Recipe Event Worker 0/WARN] [KubeJS Server/]: Error parsing recipe mofus_better_end_:end_engine_recipe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"redstone","pattern":["aba","bcb","ddd"],"key":{"a":{"item":"minecraft:end_stone_bricks"},"b":{"item":"mofus_better_end_:guardian_fragment"},"c":{"item":"mofus_better_end_:engine_core"},"d":{"item":"minecraft:obsidian"}},"result":{"item":"mofus_better_end_:deleted_mod_element","count":1}}: Unknown item 'mofus_better_end_:deleted_mod_element'
+[27Sep2025 03:47:49.441] [main/INFO] [KubeJS Server/]: Added 5 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 61.66 ms
+[27Sep2025 03:47:49.441] [main/INFO] [ModernFix/]: Clearing KubeJS recipe lists...
+[27Sep2025 03:47:49.444] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[27Sep2025 03:47:49.514] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement grave.core:recipes/titanium_ingot_from_blasting_deepslate_titanium_ore: Unknown item id 'grave.core:deepslate_titanium_ore'
+[27Sep2025 03:47:49.549] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement grave.core:recipes/titanium_ingot_from_smelting_deepslate_titanium_ore: Unknown item id 'grave.core:deepslate_titanium_ore'
+[27Sep2025 03:47:49.614] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2669 advancements
+[27Sep2025 03:47:49.644] [main/WARN] [net.threetag.palladium.Palladium/]: 'under_water' condition found, please use 'is_under_water' instead!
+[27Sep2025 03:47:49.658] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading power alienevo:code_power_test
+com.google.gson.JsonParseException: Ability 'alienevo:generate_random' does not exist!
+	at net.threetag.palladium.power.ability.AbilityConfiguration.fromJSON(AbilityConfiguration.java:192) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.power.Power.fromJSON(Power.java:186) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.power.PowerManager.lambda$apply$3(PowerManager.java:82) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.PowerManager.apply(PowerManager.java:80) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.power.PowerManager.m_5787_(PowerManager.java:31) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Sep2025 03:47:49.681] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading power mypowers:celestialsapien
+com.google.gson.JsonParseException: Ability 'alienevo:quick_cycle_next' does not exist!
+	at net.threetag.palladium.power.ability.AbilityConfiguration.fromJSON(AbilityConfiguration.java:192) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.power.Power.fromJSON(Power.java:186) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.power.PowerManager.lambda$apply$3(PowerManager.java:82) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.PowerManager.apply(PowerManager.java:80) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.threetag.palladium.power.PowerManager.m_5787_(PowerManager.java:31) ~[palladium-4.2.8+1.20.1-forge.jar%23198!/:4.2.8+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Sep2025 03:47:49.688] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 79 powers
+[27Sep2025 03:47:49.689] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 1 item powers
+[27Sep2025 03:47:49.690] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 0 suit set powers
+[27Sep2025 03:47:49.690] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 83 objectives to be tracked
+[27Sep2025 03:47:49.700] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[27Sep2025 03:47:49.703] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[27Sep2025 03:47:49.706] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[27Sep2025 03:47:49.707] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[27Sep2025 03:47:49.709] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[27Sep2025 03:47:49.760] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: c:ores
+[27Sep2025 03:47:49.859] [main/WARN] [ModernFix/]: Initial datapack load took 4.213 s
+[27Sep2025 03:47:49.876] [main/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[27Sep2025 03:47:49.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Sep2025 03:47:49.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Sep2025 03:47:49.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Sep2025 03:47:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Sep2025 03:47:50.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Sep2025 03:47:50.173] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Sep2025 03:47:50.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Sep2025 03:47:50.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Sep2025 03:47:50.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Sep2025 03:47:50.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Sep2025 03:47:50.302] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[27Sep2025 03:47:50.325] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[27Sep2025 03:47:50.497] [Server thread/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[27Sep2025 03:47:50.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Sep2025 03:47:51.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Sep2025 03:47:51.026] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[27Sep2025 03:47:51.028] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[27Sep2025 03:47:52.511] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Sep2025 03:47:52.512] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Sep2025 03:47:52.512] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Sep2025 03:47:52.523] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Sep2025 03:47:53.041] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2019 ms
+[27Sep2025 03:47:53.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.747s)! For help, type "help"
+[27Sep2025 03:47:53.085] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Sep2025 03:47:53.107] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[27Sep2025 03:47:53.108] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[27Sep2025 03:47:53.109] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.883 seconds to load
+[27Sep2025 03:49:48.222] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Sep2025 03:49:48.333] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9740e10a-575e-3fcb-af15-70595940086a.json: Don't know what boiled_reimagined:the_boiled_one is
+[27Sep2025 03:49:48.371] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_knocker:cant_sleep' in progress file ./world/advancements/9740e10a-575e-3fcb-af15-70595940086a.json - it doesn't exist anymore?
+[27Sep2025 03:49:48.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.119.103.50:43739] logged in with entity id 56 at (2688.245912256219, 77.0, -1788.4512228708165)
+[27Sep2025 03:49:48.538] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[27Sep2025 03:49:48.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[27Sep2025 03:49:48.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[27Sep2025 03:49:48.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[27Sep2025 03:53:13.097] [Worker-Main-23/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[27Sep2025 03:54:44.821] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Sep2025 03:58:40.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:40.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:41.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:42.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:43.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:43.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:43.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:58:43.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:33.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:35.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:35.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:35.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:35.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:36.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:36.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:36.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:36.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:37.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:37.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:37.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:37.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:37.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:38.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:38.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:38.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:38.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:39.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:39.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:39.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:39.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:43.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:43.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:43.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:43.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:43.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:44.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:44.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:44.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:44.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:44.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:46.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:46.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:47.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:47.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:47.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:47.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:47.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:48.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:48.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:48.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:48.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:49.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:49.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:49.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:49.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:49.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:50.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:50.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:50.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 03:59:51.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:42.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:42.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:42.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:43.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:43.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:44.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:44.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:44.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:44.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:45.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:45.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:45.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:45.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:45.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:45.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.375] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:47.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:48.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:49.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:50.878] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.878] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:51.980] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:52.974] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:53.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.282] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:54.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.375] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:55.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:59.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:59.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:59.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:59.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:59.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:00:59.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:00.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:00.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:01.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:01.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:01.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:02.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:02.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:02.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:02.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Sep2025 04:01:02.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Disconnected
+[27Sep2025 04:01:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
+[27Sep2025 04:01:09.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.119.103.50:34177] logged in with entity id 5372 at (3819.8959836023637, 78.0, -1969.2149916707992)
+[27Sep2025 04:01:09.380] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[27Sep2025 04:01:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[27Sep2025 04:01:09.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[27Sep2025 04:01:09.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[27Sep2025 04:09:47.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Disconnected
+[27Sep2025 04:09:47.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
+[27Sep2025 04:11:12.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.119.103.50:39461] logged in with entity id 11293 at (4648.860833941648, 60.0, -1368.4077681809952)
+[27Sep2025 04:11:12.351] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[27Sep2025 04:11:12.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[27Sep2025 04:11:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[27Sep2025 04:11:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
