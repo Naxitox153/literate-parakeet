@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-27 03:34:21 +0000",
       "minecraft:taiga": "2025-09-26 23:17:17 +0000",
       "minecraft:sunflower_plains": "2025-09-15 04:03:16 +0000",
       "minecraft:bamboo_jungle": "2025-09-15 03:18:49 +0000",
@@ -34,11 +35,13 @@
       "minecraft:lukewarm_ocean": "2025-09-15 03:42:00 +0000",
       "minecraft:river": "2025-09-15 03:58:40 +0000",
       "minecraft:stony_shore": "2025-09-15 03:24:21 +0000",
+      "minecraft:jagged_peaks": "2025-09-27 03:34:05 +0000",
       "minecraft:forest": "2025-09-15 04:15:25 +0000",
       "minecraft:windswept_forest": "2025-09-15 05:06:14 +0000",
       "minecraft:ocean": "2025-09-15 04:24:19 +0000",
       "minecraft:windswept_savanna": "2025-09-15 05:05:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-15 04:15:34 +0000",
+      "minecraft:meadow": "2025-09-27 03:33:28 +0000",
       "minecraft:savanna": "2025-09-15 03:57:51 +0000",
       "minecraft:plains": "2025-09-15 03:57:17 +0000"
     },
@@ -3576,9 +3579,21 @@
     },
     "done": true
   },
+  "alienevo:recipes/machined_panel": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-27 03:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-27 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/machined_metal": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-27 03:28:28 +0000"
     },
     "done": true
   },
@@ -3597,6 +3612,12 @@
   "alienevo:recipes/omnitrix_workbench": {
     "criteria": {
       "has_galvan_scrap": "2025-09-27 02:51:44 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_crystals": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-27 03:28:28 +0000"
     },
     "done": true
   },

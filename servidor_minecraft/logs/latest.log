@@ -25,3 +25,14 @@
 [27Sep2025 03:21:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
 [27Sep2025 03:21:42.241] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [27Sep2025 03:21:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2056.500000, 60.500000, -2461.500000]
+[27Sep2025 03:26:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
+[27Sep2025 03:26:10.000] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Naxoxh7 with unique ID travelersbackpack.standard_27.09.2025-03.26.09.dat
+[27Sep2025 03:26:12.693] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Sep2025 03:26:31.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2060.500000, 62.500000, -2481.500000]
+[27Sep2025 03:27:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was turned into KFC by a dragon
+[27Sep2025 03:27:18.863] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Sep2025 03:27:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2051.500000, 63.500000, -2495.500000]
+[27Sep2025 03:27:54.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was incinerated by a dragon
+[27Sep2025 03:27:55.654] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Sep2025 03:27:59.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2074.500000, 63.500000, -2472.500000]
+[27Sep2025 03:31:12.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
