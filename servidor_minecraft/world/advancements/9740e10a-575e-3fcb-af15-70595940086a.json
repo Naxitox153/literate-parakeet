@@ -39,10 +39,12 @@
       "minecraft:snowy_plains": "2025-09-27 03:56:52 +0000",
       "minecraft:snowy_taiga": "2025-09-27 03:54:37 +0000",
       "minecraft:jagged_peaks": "2025-09-27 03:34:05 +0000",
+      "minecraft:cold_ocean": "2025-09-27 04:29:13 +0000",
       "minecraft:forest": "2025-09-15 04:15:25 +0000",
       "minecraft:ice_spikes": "2025-09-27 04:03:07 +0000",
       "minecraft:frozen_ocean": "2025-09-27 03:55:24 +0000",
       "minecraft:windswept_forest": "2025-09-15 05:06:14 +0000",
+      "minecraft:deep_frozen_ocean": "2025-09-27 04:33:08 +0000",
       "minecraft:ocean": "2025-09-15 04:24:19 +0000",
       "minecraft:snowy_beach": "2025-09-27 04:12:26 +0000",
       "minecraft:windswept_savanna": "2025-09-15 05:05:31 +0000",
@@ -3777,6 +3779,36 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-27 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-09-27 04:18:36 +0000"
@@ -3789,9 +3821,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-09-27 04:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-09-27 04:25:50 +0000"
     },
     "done": true
   },
@@ -3801,9 +3863,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-09-27 04:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_picket_fence": {
     "criteria": {
       "has_concrete": "2025-09-27 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-09-27 04:23:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-09-27 04:30:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-09-27 04:30:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-27 04:29:48 +0000"
     },
     "done": true
   },
@@ -3813,9 +3953,93 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-27 04:30:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-09-27 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-09-27 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-09-27 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-09-27 04:30:17 +0000"
     },
     "done": true
   },
@@ -3825,9 +4049,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-09-27 04:29:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_concrete": "2025-09-27 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-09-27 04:23:20 +0000"
     },
     "done": true
   },
