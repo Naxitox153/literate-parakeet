@@ -6410,3 +6410,19 @@ com.google.gson.JsonParseException: Ability 'alienevo:quick_cycle_next' does not
 [27Sep2025 03:12:38.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_1
 [27Sep2025 03:14:53.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Sep2025 03:14:53.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Sep2025 03:17:24.063] [Worker-Main-123/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[27Sep2025 03:17:24.076] [Worker-Main-123/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
+[27Sep2025 03:17:26.388] [Worker-Main-122/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_18 is being run through DFU (hash 0ce91ed86927b623c2492e3f93af5b7bd662b0f4eeeea40498941e43f20b5f79), this will cause launch time delays
+[27Sep2025 03:19:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Ol' Betsy]
+[27Sep2025 03:19:36.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Take Aim]
+[27Sep2025 03:19:53.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Sep2025 03:19:53.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Sep2025 03:21:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
+[27Sep2025 03:21:04.830] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Naxoxh7 with unique ID travelersbackpack.standard_27.09.2025-03.21.04.dat
+[27Sep2025 03:21:06.103] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Sep2025 03:21:25.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2055.500000, 61.500000, -2467.500000]
+[27Sep2025 03:21:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was slain by Fire Dragon
+[27Sep2025 03:21:42.241] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Sep2025 03:21:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to 2056.500000, 60.500000, -2461.500000]
+[27Sep2025 03:24:53.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Sep2025 03:24:53.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
